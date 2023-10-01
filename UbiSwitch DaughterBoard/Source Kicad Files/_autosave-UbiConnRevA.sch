@@ -1,0 +1,3164 @@
+EESchema Schematic File Version 5
+EELAYER 36 0
+EELAYER END
+$Descr A2 23386 16535
+encoding utf-8
+Sheet 1 5
+Title "UbiConn"
+Date "2023-02-02"
+Rev "A"
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+Comment5 ""
+Comment6 ""
+Comment7 ""
+Comment8 ""
+Comment9 ""
+$EndDescr
+Connection ~ 1275 13750
+Connection ~ 1275 14050
+Connection ~ 1275 14500
+Connection ~ 1550 13750
+Connection ~ 1550 14500
+Connection ~ 1750 13750
+Connection ~ 1900 11750
+Connection ~ 1975 6925
+Connection ~ 1975 7025
+Connection ~ 2075 14100
+Connection ~ 2075 14500
+Connection ~ 2450 13750
+Connection ~ 2575 13750
+Connection ~ 2600 7125
+Connection ~ 2600 11650
+Connection ~ 2850 13750
+Connection ~ 3500 1550
+Connection ~ 3500 3000
+Connection ~ 3700 1450
+Connection ~ 3700 3000
+Connection ~ 4200 1350
+Connection ~ 4200 3000
+Connection ~ 4400 1250
+Connection ~ 4850 1550
+Connection ~ 4850 2900
+Connection ~ 5050 1450
+Connection ~ 5050 2900
+Connection ~ 5500 1350
+Connection ~ 5500 2900
+Connection ~ 5700 1250
+Connection ~ 6150 1550
+Connection ~ 6150 2800
+Connection ~ 6350 1450
+Connection ~ 6350 2800
+Connection ~ 6800 1350
+Connection ~ 6800 2800
+Connection ~ 7000 1250
+Connection ~ 7550 1550
+Connection ~ 7550 2700
+Connection ~ 7750 1450
+Connection ~ 7750 2700
+Connection ~ 8300 1350
+Connection ~ 8300 2700
+Connection ~ 8500 1250
+Connection ~ 9050 2600
+Connection ~ 9250 2600
+Connection ~ 9800 2600
+Wire Wire Line
+	1000 2700 1975 2700
+Wire Wire Line
+	1000 2800 1975 2800
+Wire Wire Line
+	1200 13750 1275 13750
+Wire Wire Line
+	1200 13850 1275 13850
+Wire Wire Line
+	1200 13950 1275 13950
+Wire Wire Line
+	1275 13750 1550 13750
+Wire Wire Line
+	1275 13850 1275 13750
+Wire Wire Line
+	1275 13950 1275 14050
+Wire Wire Line
+	1275 14050 1200 14050
+Wire Wire Line
+	1275 14050 1275 14500
+Wire Wire Line
+	1275 14500 1275 14550
+Wire Wire Line
+	1275 14500 1550 14500
+Wire Wire Line
+	1500 10350 2000 10350
+Wire Wire Line
+	1550 11750 1900 11750
+Wire Wire Line
+	1550 13750 1750 13750
+Wire Wire Line
+	1550 13925 1550 13750
+Wire Wire Line
+	1550 14225 1550 14500
+Wire Wire Line
+	1550 14500 2075 14500
+Wire Wire Line
+	1575 12500 1750 12500
+Wire Wire Line
+	1750 13750 1750 13400
+Wire Wire Line
+	1750 13750 1875 13750
+Wire Wire Line
+	1900 11650 1900 11750
+Wire Wire Line
+	1900 11750 2000 11750
+Wire Wire Line
+	1925 13400 1750 13400
+Wire Wire Line
+	1950 4225 2000 4225
+Wire Wire Line
+	1950 5125 2000 5125
+Wire Wire Line
+	1950 6025 2000 6025
+Wire Wire Line
+	1950 6925 1975 6925
+Wire Wire Line
+	1950 8850 2000 8850
+Wire Wire Line
+	1950 9150 2000 9150
+Wire Wire Line
+	1950 9450 2000 9450
+Wire Wire Line
+	1950 9750 2000 9750
+Wire Wire Line
+	1950 10050 2000 10050
+Wire Wire Line
+	1950 10650 2000 10650
+Wire Wire Line
+	1950 11550 2000 11550
+Wire Wire Line
+	1950 12500 2000 12500
+Wire Wire Line
+	1975 2600 1000 2600
+Wire Wire Line
+	1975 2900 1000 2900
+Wire Wire Line
+	1975 3000 1000 3000
+Wire Wire Line
+	1975 6925 2000 6925
+Wire Wire Line
+	1975 7025 1975 6925
+Wire Wire Line
+	1975 7125 1975 7025
+Wire Wire Line
+	2000 1250 4400 1250
+Wire Wire Line
+	2000 1350 4200 1350
+Wire Wire Line
+	2000 1450 3700 1450
+Wire Wire Line
+	2000 1550 3500 1550
+Wire Wire Line
+	2000 4325 1500 4325
+Wire Wire Line
+	2000 4425 1500 4425
+Wire Wire Line
+	2000 4525 1500 4525
+Wire Wire Line
+	2000 4625 1500 4625
+Wire Wire Line
+	2000 4725 1500 4725
+Wire Wire Line
+	2000 4825 1500 4825
+Wire Wire Line
+	2000 4925 1500 4925
+Wire Wire Line
+	2000 5025 1500 5025
+Wire Wire Line
+	2000 5225 1500 5225
+Wire Wire Line
+	2000 5325 1500 5325
+Wire Wire Line
+	2000 5425 1500 5425
+Wire Wire Line
+	2000 5525 1500 5525
+Wire Wire Line
+	2000 5625 1500 5625
+Wire Wire Line
+	2000 5725 1500 5725
+Wire Wire Line
+	2000 5825 1500 5825
+Wire Wire Line
+	2000 5925 1500 5925
+Wire Wire Line
+	2000 6125 1500 6125
+Wire Wire Line
+	2000 6225 1500 6225
+Wire Wire Line
+	2000 6325 1500 6325
+Wire Wire Line
+	2000 6425 1500 6425
+Wire Wire Line
+	2000 6525 1500 6525
+Wire Wire Line
+	2000 6625 1500 6625
+Wire Wire Line
+	2000 6725 1500 6725
+Wire Wire Line
+	2000 6825 1500 6825
+Wire Wire Line
+	2000 7025 1975 7025
+Wire Wire Line
+	2000 7125 1975 7125
+Wire Wire Line
+	2000 8950 1500 8950
+Wire Wire Line
+	2000 9050 1500 9050
+Wire Wire Line
+	2000 9250 1500 9250
+Wire Wire Line
+	2000 9350 1500 9350
+Wire Wire Line
+	2000 9550 1500 9550
+Wire Wire Line
+	2000 9650 1500 9650
+Wire Wire Line
+	2000 9850 1500 9850
+Wire Wire Line
+	2000 9950 1500 9950
+Wire Wire Line
+	2000 10150 1500 10150
+Wire Wire Line
+	2000 10250 1500 10250
+Wire Wire Line
+	2000 10450 1500 10450
+Wire Wire Line
+	2000 10550 1500 10550
+Wire Wire Line
+	2000 10750 1500 10750
+Wire Wire Line
+	2000 10850 1500 10850
+Wire Wire Line
+	2000 10950 1500 10950
+Wire Wire Line
+	2000 11050 1500 11050
+Wire Wire Line
+	2000 11150 1500 11150
+Wire Wire Line
+	2000 11250 1500 11250
+Wire Wire Line
+	2000 11350 1500 11350
+Wire Wire Line
+	2000 11450 1500 11450
+Wire Wire Line
+	2000 11650 1900 11650
+Wire Wire Line
+	2000 15825 1900 15825
+Wire Wire Line
+	2075 14050 2075 14100
+Wire Wire Line
+	2075 14100 2075 14225
+Wire Wire Line
+	2075 14425 2075 14500
+Wire Wire Line
+	2075 14500 3250 14500
+Wire Wire Line
+	2175 2600 9050 2600
+Wire Wire Line
+	2175 2700 7550 2700
+Wire Wire Line
+	2175 2800 6150 2800
+Wire Wire Line
+	2175 2900 4850 2900
+Wire Wire Line
+	2175 3000 3500 3000
+Wire Wire Line
+	2225 13400 2450 13400
+Wire Wire Line
+	2275 13750 2450 13750
+Wire Wire Line
+	2300 12500 2500 12500
+Wire Wire Line
+	2300 15825 2500 15825
+Wire Wire Line
+	2450 13750 2450 13400
+Wire Wire Line
+	2450 13750 2575 13750
+Wire Wire Line
+	2500 4325 3650 4325
+Wire Wire Line
+	2500 4525 3000 4525
+Wire Wire Line
+	2500 4625 3000 4625
+Wire Wire Line
+	2500 4825 3000 4825
+Wire Wire Line
+	2500 4925 3000 4925
+Wire Wire Line
+	2500 5125 3750 5125
+Wire Wire Line
+	2500 5225 3750 5225
+Wire Wire Line
+	2500 5325 3750 5325
+Wire Wire Line
+	2500 5425 3750 5425
+Wire Wire Line
+	2500 5525 3750 5525
+Wire Wire Line
+	2500 5625 3750 5625
+Wire Wire Line
+	2500 5725 3750 5725
+Wire Wire Line
+	2500 5825 3750 5825
+Wire Wire Line
+	2500 5925 3750 5925
+Wire Wire Line
+	2500 6125 3000 6125
+Wire Wire Line
+	2500 6225 3000 6225
+Wire Wire Line
+	2500 6325 3000 6325
+Wire Wire Line
+	2500 6425 3000 6425
+Wire Wire Line
+	2500 6525 3000 6525
+Wire Wire Line
+	2500 6625 3000 6625
+Wire Wire Line
+	2500 6725 3000 6725
+Wire Wire Line
+	2500 6825 3000 6825
+Wire Wire Line
+	2500 7025 2600 7025
+Wire Wire Line
+	2500 7125 2600 7125
+Wire Wire Line
+	2500 8950 3000 8950
+Wire Wire Line
+	2500 9050 3000 9050
+Wire Wire Line
+	2500 9150 3000 9150
+Wire Wire Line
+	2500 9250 3000 9250
+Wire Wire Line
+	2500 9350 3000 9350
+Wire Wire Line
+	2500 9450 3000 9450
+Wire Wire Line
+	2500 9550 3000 9550
+Wire Wire Line
+	2500 9650 3000 9650
+Wire Wire Line
+	2500 9850 3000 9850
+Wire Wire Line
+	2500 9950 3000 9950
+Wire Wire Line
+	2500 10050 3000 10050
+Wire Wire Line
+	2500 10150 3000 10150
+Wire Wire Line
+	2500 10250 3000 10250
+Wire Wire Line
+	2500 10350 3000 10350
+Wire Wire Line
+	2500 10450 3000 10450
+Wire Wire Line
+	2500 10550 3000 10550
+Wire Wire Line
+	2500 10750 3000 10750
+Wire Wire Line
+	2500 10850 3000 10850
+Wire Wire Line
+	2500 10950 3000 10950
+Wire Wire Line
+	2500 11050 3000 11050
+Wire Wire Line
+	2500 11150 3000 11150
+Wire Wire Line
+	2500 11250 3000 11250
+Wire Wire Line
+	2500 11350 3000 11350
+Wire Wire Line
+	2500 11450 3000 11450
+Wire Wire Line
+	2500 11550 2600 11550
+Wire Wire Line
+	2500 11650 2600 11650
+Wire Wire Line
+	2500 11750 2600 11750
+Wire Wire Line
+	2550 4225 2500 4225
+Wire Wire Line
+	2550 4425 2500 4425
+Wire Wire Line
+	2550 4725 2500 4725
+Wire Wire Line
+	2550 5025 2500 5025
+Wire Wire Line
+	2550 6025 2500 6025
+Wire Wire Line
+	2550 6925 2500 6925
+Wire Wire Line
+	2550 8850 2500 8850
+Wire Wire Line
+	2550 9750 2500 9750
+Wire Wire Line
+	2550 10650 2500 10650
+Wire Wire Line
+	2575 13750 2850 13750
+Wire Wire Line
+	2575 14100 2075 14100
+Wire Wire Line
+	2575 14100 2575 14050
+Wire Wire Line
+	2600 7025 2600 7125
+Wire Wire Line
+	2600 7125 2750 7125
+Wire Wire Line
+	2600 11550 2600 11650
+Wire Wire Line
+	2600 11650 2800 11650
+Wire Wire Line
+	2600 11750 2600 11650
+Wire Wire Line
+	2850 13600 2850 13750
+Wire Wire Line
+	2850 13750 3250 13750
+Wire Wire Line
+	3500 1550 3500 1700
+Wire Wire Line
+	3500 1550 4850 1550
+Wire Wire Line
+	3500 2300 3500 3000
+Wire Wire Line
+	3700 1450 3700 1700
+Wire Wire Line
+	3700 1450 5050 1450
+Wire Wire Line
+	3700 2300 3700 3000
+Wire Wire Line
+	3700 3000 3500 3000
+Wire Wire Line
+	3850 4525 3850 4575
+Wire Wire Line
+	4200 1350 4200 1700
+Wire Wire Line
+	4200 1350 5500 1350
+Wire Wire Line
+	4200 2300 4200 3000
+Wire Wire Line
+	4200 3000 3700 3000
+Wire Wire Line
+	4400 1250 4400 1700
+Wire Wire Line
+	4400 1250 5700 1250
+Wire Wire Line
+	4400 2300 4400 3000
+Wire Wire Line
+	4400 3000 4200 3000
+Wire Wire Line
+	4750 13750 5375 13750
+Wire Wire Line
+	4850 1550 4850 1700
+Wire Wire Line
+	4850 2900 4850 2300
+Wire Wire Line
+	5050 1450 5050 1700
+Wire Wire Line
+	5050 1450 6350 1450
+Wire Wire Line
+	5050 2300 5050 2900
+Wire Wire Line
+	5050 2900 4850 2900
+Wire Wire Line
+	5250 4000 4750 4000
+Wire Wire Line
+	5250 4100 4750 4100
+Wire Wire Line
+	5250 4200 4750 4200
+Wire Wire Line
+	5250 4300 4750 4300
+Wire Wire Line
+	5250 4400 4750 4400
+Wire Wire Line
+	5250 4500 4750 4500
+Wire Wire Line
+	5250 4600 4750 4600
+Wire Wire Line
+	5250 4700 4750 4700
+Wire Wire Line
+	5250 4900 4750 4900
+Wire Wire Line
+	5250 5000 4750 5000
+Wire Wire Line
+	5250 5100 4750 5100
+Wire Wire Line
+	5250 5200 4750 5200
+Wire Wire Line
+	5250 5300 4750 5300
+Wire Wire Line
+	5250 5400 4750 5400
+Wire Wire Line
+	5250 5500 4750 5500
+Wire Wire Line
+	5250 5600 4750 5600
+Wire Wire Line
+	5250 5800 4750 5800
+Wire Wire Line
+	5250 5900 4750 5900
+Wire Wire Line
+	5250 6000 4750 6000
+Wire Wire Line
+	5250 6100 4750 6100
+Wire Wire Line
+	5250 6200 4750 6200
+Wire Wire Line
+	5250 6300 4750 6300
+Wire Wire Line
+	5250 6400 4750 6400
+Wire Wire Line
+	5250 6500 4750 6500
+Wire Wire Line
+	5250 6700 4750 6700
+Wire Wire Line
+	5250 6800 4750 6800
+Wire Wire Line
+	5250 6900 4750 6900
+Wire Wire Line
+	5250 7000 4750 7000
+Wire Wire Line
+	5250 7100 4750 7100
+Wire Wire Line
+	5250 7200 4750 7200
+Wire Wire Line
+	5250 7300 4750 7300
+Wire Wire Line
+	5250 7400 4750 7400
+Wire Wire Line
+	5250 8400 4750 8400
+Wire Wire Line
+	5250 8500 4750 8500
+Wire Wire Line
+	5250 8600 4750 8600
+Wire Wire Line
+	5250 8700 4750 8700
+Wire Wire Line
+	5250 8800 4750 8800
+Wire Wire Line
+	5250 8900 4750 8900
+Wire Wire Line
+	5250 9000 4750 9000
+Wire Wire Line
+	5250 9100 4750 9100
+Wire Wire Line
+	5250 9300 4750 9300
+Wire Wire Line
+	5250 9400 4750 9400
+Wire Wire Line
+	5250 9500 4750 9500
+Wire Wire Line
+	5250 9600 4750 9600
+Wire Wire Line
+	5250 9700 4750 9700
+Wire Wire Line
+	5250 9800 4750 9800
+Wire Wire Line
+	5250 9900 4750 9900
+Wire Wire Line
+	5250 10000 4750 10000
+Wire Wire Line
+	5250 10200 4750 10200
+Wire Wire Line
+	5250 10300 4750 10300
+Wire Wire Line
+	5250 10400 4750 10400
+Wire Wire Line
+	5250 10500 4750 10500
+Wire Wire Line
+	5250 10600 4750 10600
+Wire Wire Line
+	5250 10700 4750 10700
+Wire Wire Line
+	5250 10800 4750 10800
+Wire Wire Line
+	5250 10900 4750 10900
+Wire Wire Line
+	5250 11100 4750 11100
+Wire Wire Line
+	5250 11200 4750 11200
+Wire Wire Line
+	5250 11300 4750 11300
+Wire Wire Line
+	5250 11400 4750 11400
+Wire Wire Line
+	5250 11500 4750 11500
+Wire Wire Line
+	5250 11600 4750 11600
+Wire Wire Line
+	5250 11700 4750 11700
+Wire Wire Line
+	5250 11800 4750 11800
+Wire Wire Line
+	5375 13050 5375 13750
+Wire Wire Line
+	5500 1350 5500 1700
+Wire Wire Line
+	5500 1350 6800 1350
+Wire Wire Line
+	5500 2300 5500 2900
+Wire Wire Line
+	5500 2900 5050 2900
+Wire Wire Line
+	5700 1250 5700 1700
+Wire Wire Line
+	5700 1250 7000 1250
+Wire Wire Line
+	5700 2300 5700 2900
+Wire Wire Line
+	5700 2900 5500 2900
+Wire Wire Line
+	6150 1550 4850 1550
+Wire Wire Line
+	6150 1550 7550 1550
+Wire Wire Line
+	6150 1700 6150 1550
+Wire Wire Line
+	6150 2800 6150 2300
+Wire Wire Line
+	6150 2800 6350 2800
+Wire Wire Line
+	6350 1450 6350 1700
+Wire Wire Line
+	6350 1450 7750 1450
+Wire Wire Line
+	6350 2800 6350 2300
+Wire Wire Line
+	6350 2800 6800 2800
+Wire Wire Line
+	6800 1350 6800 1700
+Wire Wire Line
+	6800 1350 8300 1350
+Wire Wire Line
+	6800 2800 6800 2300
+Wire Wire Line
+	6800 2800 7000 2800
+Wire Wire Line
+	7000 1250 7000 1700
+Wire Wire Line
+	7000 1250 8500 1250
+Wire Wire Line
+	7000 2800 7000 2300
+Wire Wire Line
+	7500 4000 6500 4000
+Wire Wire Line
+	7500 4100 6500 4100
+Wire Wire Line
+	7500 4200 6500 4200
+Wire Wire Line
+	7500 4300 6500 4300
+Wire Wire Line
+	7500 4400 6500 4400
+Wire Wire Line
+	7500 4500 6500 4500
+Wire Wire Line
+	7500 4600 6500 4600
+Wire Wire Line
+	7500 4700 6500 4700
+Wire Wire Line
+	7500 4900 6500 4900
+Wire Wire Line
+	7500 5000 6500 5000
+Wire Wire Line
+	7500 5100 6500 5100
+Wire Wire Line
+	7500 5200 6500 5200
+Wire Wire Line
+	7500 5300 6500 5300
+Wire Wire Line
+	7500 5400 6500 5400
+Wire Wire Line
+	7500 5500 6500 5500
+Wire Wire Line
+	7500 5600 6500 5600
+Wire Wire Line
+	7500 5800 6500 5800
+Wire Wire Line
+	7500 5900 6500 5900
+Wire Wire Line
+	7500 6000 6500 6000
+Wire Wire Line
+	7500 6100 6500 6100
+Wire Wire Line
+	7500 6200 6500 6200
+Wire Wire Line
+	7500 6300 6500 6300
+Wire Wire Line
+	7500 6400 6500 6400
+Wire Wire Line
+	7500 6500 6500 6500
+Wire Wire Line
+	7500 6700 6500 6700
+Wire Wire Line
+	7500 6800 6500 6800
+Wire Wire Line
+	7500 6900 6500 6900
+Wire Wire Line
+	7500 7000 6500 7000
+Wire Wire Line
+	7500 7100 6500 7100
+Wire Wire Line
+	7500 7200 6500 7200
+Wire Wire Line
+	7500 7300 6500 7300
+Wire Wire Line
+	7500 7400 6500 7400
+Wire Wire Line
+	7500 8400 6500 8400
+Wire Wire Line
+	7500 8500 6500 8500
+Wire Wire Line
+	7500 8600 6500 8600
+Wire Wire Line
+	7500 8700 6500 8700
+Wire Wire Line
+	7500 8800 6500 8800
+Wire Wire Line
+	7500 8900 6500 8900
+Wire Wire Line
+	7500 9000 6500 9000
+Wire Wire Line
+	7500 9100 6500 9100
+Wire Wire Line
+	7500 9300 6500 9300
+Wire Wire Line
+	7500 9400 6500 9400
+Wire Wire Line
+	7500 9500 6500 9500
+Wire Wire Line
+	7500 9600 6500 9600
+Wire Wire Line
+	7500 9700 6500 9700
+Wire Wire Line
+	7500 9800 6500 9800
+Wire Wire Line
+	7500 9900 6500 9900
+Wire Wire Line
+	7500 10000 6500 10000
+Wire Wire Line
+	7500 10200 6500 10200
+Wire Wire Line
+	7500 10300 6500 10300
+Wire Wire Line
+	7500 10400 6500 10400
+Wire Wire Line
+	7500 10500 6500 10500
+Wire Wire Line
+	7500 10600 6500 10600
+Wire Wire Line
+	7500 10700 6500 10700
+Wire Wire Line
+	7500 10800 6500 10800
+Wire Wire Line
+	7500 10900 6500 10900
+Wire Wire Line
+	7500 11100 6500 11100
+Wire Wire Line
+	7500 11200 6500 11200
+Wire Wire Line
+	7500 11300 6500 11300
+Wire Wire Line
+	7500 11400 6500 11400
+Wire Wire Line
+	7500 11500 6500 11500
+Wire Wire Line
+	7500 11600 6500 11600
+Wire Wire Line
+	7500 11700 6500 11700
+Wire Wire Line
+	7500 11800 6500 11800
+Wire Wire Line
+	7550 1550 9050 1550
+Wire Wire Line
+	7550 1675 7550 1550
+Wire Wire Line
+	7550 2700 7550 2275
+Wire Wire Line
+	7550 2700 7750 2700
+Wire Wire Line
+	7750 1450 9250 1450
+Wire Wire Line
+	7750 1675 7750 1450
+Wire Wire Line
+	7750 2700 7750 2275
+Wire Wire Line
+	7750 2700 8300 2700
+Wire Wire Line
+	8300 1350 9800 1350
+Wire Wire Line
+	8300 1675 8300 1350
+Wire Wire Line
+	8300 2700 8300 2275
+Wire Wire Line
+	8300 2700 8500 2700
+Wire Wire Line
+	8500 1250 10000 1250
+Wire Wire Line
+	8500 1675 8500 1250
+Wire Wire Line
+	8500 2700 8500 2275
+Wire Wire Line
+	9050 1550 9050 1675
+Wire Wire Line
+	9050 2600 9050 2275
+Wire Wire Line
+	9050 2600 9250 2600
+Wire Wire Line
+	9250 1450 9250 1675
+Wire Wire Line
+	9250 2600 9250 2275
+Wire Wire Line
+	9250 2600 9800 2600
+Wire Wire Line
+	9800 1350 9800 1675
+Wire Wire Line
+	9800 2600 9800 2275
+Wire Wire Line
+	9800 2600 10000 2600
+Wire Wire Line
+	10000 1250 10000 1675
+Wire Wire Line
+	10000 2600 10000 2275
+Wire Wire Line
+	10000 4450 9500 4450
+Wire Wire Line
+	10000 4550 9500 4550
+Wire Wire Line
+	10000 4750 9500 4750
+Wire Wire Line
+	10000 4850 9500 4850
+Wire Wire Line
+	10000 5075 9500 5075
+Wire Wire Line
+	10000 5175 9500 5175
+Wire Wire Line
+	10000 5375 9500 5375
+Wire Wire Line
+	10000 5475 9500 5475
+Wire Wire Line
+	10000 5700 9500 5700
+Wire Wire Line
+	10000 5800 9500 5800
+Wire Wire Line
+	10000 6000 9500 6000
+Wire Wire Line
+	10000 6100 9500 6100
+Wire Wire Line
+	10200 9750 10500 9750
+Wire Wire Line
+	10200 9850 10500 9850
+Wire Wire Line
+	10200 9950 11000 9950
+Wire Wire Line
+	10200 10050 11000 10050
+Wire Wire Line
+	10200 10900 10500 10900
+Wire Wire Line
+	10200 11000 10500 11000
+Wire Wire Line
+	10200 11100 11000 11100
+Wire Wire Line
+	10200 11200 11000 11200
+Wire Wire Line
+	10250 8250 11500 8250
+Wire Wire Line
+	10250 8350 11500 8350
+Wire Wire Line
+	10250 8450 11500 8450
+Wire Wire Line
+	10250 8550 11500 8550
+Wire Wire Line
+	10250 8650 11500 8650
+Wire Wire Line
+	10250 8750 11500 8750
+Wire Wire Line
+	10250 8850 11500 8850
+Wire Wire Line
+	10250 8950 11500 8950
+Wire Wire Line
+	10250 9050 11500 9050
+Wire Wire Line
+	10500 9750 10500 9675
+Wire Wire Line
+	10500 9850 10500 10250
+Wire Wire Line
+	10500 10900 10500 10825
+Wire Wire Line
+	10500 11000 10500 11400
+Wire Wire Line
+	11000 4250 11275 4250
+Wire Wire Line
+	11275 4250 11275 4125
+Wire Wire Line
+	15025 15300 15025 15050
+Wire Wire Line
+	15525 15300 15525 15050
+Wire Wire Line
+	16000 15300 16000 15050
+Wire Wire Line
+	18025 15050 18025 15300
+Text Notes 1000 13575 0    39   Italic 0
+6.5 to 60V
+Text Notes 1225 12700 0    50   ~ 0
+3v3 indicator (indicate UbiSwitch is plugged)
+Text Notes 2100 13950 0    59   Italic 12
+
+Text Notes 3375 2050 1    50   ~ 0
+RED
+Text Notes 3725 3150 2    50   ~ 0
+PORT 1
+Text Notes 3875 2125 1    50   ~ 0
+GREEN
+Text Notes 4075 2050 1    50   ~ 0
+RED
+Text Notes 4400 3150 2    50   ~ 0
+PORT 2
+Text Notes 4575 2125 1    50   ~ 0
+GREEN
+Text Notes 4750 2050 1    50   ~ 0
+RED
+Text Notes 5050 3150 2    50   ~ 0
+PORT 3
+Text Notes 5225 2125 1    50   ~ 0
+GREEN
+Text Notes 5400 2050 1    50   ~ 0
+RED
+Text Notes 5700 3150 2    50   ~ 0
+PORT 4
+Text Notes 5875 2125 1    50   ~ 0
+GREEN
+Text Notes 6050 2050 1    50   ~ 0
+RED
+Text Notes 6400 3150 2    50   ~ 0
+PORT 5
+Text Notes 6525 2125 1    50   ~ 0
+GREEN
+Text Notes 6700 2050 1    50   ~ 0
+RED
+Text Notes 7075 3150 2    50   ~ 0
+PORT 6
+Text Notes 7175 2125 1    50   ~ 0
+GREEN
+Text Notes 7450 2025 1    50   ~ 0
+RED
+Text Notes 7725 3150 2    50   ~ 0
+PORT 7
+Text Notes 7925 2100 1    50   ~ 0
+GREEN
+Text Notes 8200 2025 1    50   ~ 0
+RED
+Text Notes 8300 4400 0    50   ~ 0
+PORT 1 - 1G
+Text Notes 8300 5300 0    50   ~ 0
+PORT 2 - 1G
+Text Notes 8300 6200 0    50   ~ 0
+PORT 3 - 1G
+Text Notes 8300 7100 0    50   ~ 0
+PORT 4 - 1G
+Text Notes 8300 8800 0    50   ~ 0
+PORT 5 - 1G
+Text Notes 8300 9700 0    50   ~ 0
+PORT 6 - 1G
+Text Notes 8300 10600 0    50   ~ 0
+PORT 7 - 1G
+Text Notes 8300 11500 0    50   ~ 0
+PORT 8 - 1G
+Text Notes 8375 3150 2    50   ~ 0
+PORT 8
+Text Notes 8675 2100 1    50   ~ 0
+GREEN
+Text Notes 8950 2025 1    50   ~ 0
+RED
+Text Notes 9100 3150 2    50   ~ 0
+PORT 0
+Text Notes 9425 2100 1    50   ~ 0
+GREEN
+Text Notes 9525 3150 2    50   ~ 0
+PORT 10
+Text Notes 9700 2025 1    50   ~ 0
+RED
+Text Notes 10100 3150 2    50   ~ 0
+PORT 9
+Text Notes 10175 2100 1    50   ~ 0
+GREEN
+Text Label 1000 2600 0    50   ~ 0
+R4_LED_P5_LED0
+Text Label 1000 2700 0    50   ~ 0
+R3_LED_P4_LED0
+Text Label 1000 2800 0    50   ~ 0
+R2_LED_P3_LED0
+Text Label 1000 2900 0    50   ~ 0
+R1_LED_P2_LED0
+Text Label 1000 3000 0    50   ~ 0
+R0_LED_P1_LED0
+Text Label 1500 4325 0    50   ~ 0
+P1A_P
+Text Label 1500 4425 0    50   ~ 0
+P1A_N
+Text Label 1500 4525 0    50   ~ 0
+P1B_N
+Text Label 1500 4625 0    50   ~ 0
+P1B_P
+Text Label 1500 4725 0    50   ~ 0
+P1C_P
+Text Label 1500 4825 0    50   ~ 0
+P1C_N
+Text Label 1500 4925 0    50   ~ 0
+P1D_N
+Text Label 1500 5025 0    50   ~ 0
+P1D_P
+Text Label 1500 5225 0    50   ~ 0
+P2A_P
+Text Label 1500 5325 0    50   ~ 0
+P2A_N
+Text Label 1500 5425 0    50   ~ 0
+P2B_N
+Text Label 1500 5525 0    50   ~ 0
+P2B_P
+Text Label 1500 5625 0    50   ~ 0
+P2C_P
+Text Label 1500 5725 0    50   ~ 0
+P2C_N
+Text Label 1500 5825 0    50   ~ 0
+P2D_N
+Text Label 1500 5925 0    50   ~ 0
+P2D_P
+Text Label 1500 6125 0    50   ~ 0
+P3A_P
+Text Label 1500 6225 0    50   ~ 0
+P3A_N
+Text Label 1500 6325 0    50   ~ 0
+P3B_N
+Text Label 1500 6425 0    50   ~ 0
+P3B_P
+Text Label 1500 6525 0    50   ~ 0
+P3C_P
+Text Label 1500 6625 0    50   ~ 0
+P3C_N
+Text Label 1500 6725 0    50   ~ 0
+P3D_N
+Text Label 1500 6825 0    50   ~ 0
+P3D_P
+Text Label 1500 8950 0    50   ~ 0
+P10TX_N
+Text Label 1500 9050 0    50   ~ 0
+P10TX_P
+Text Label 1500 9250 0    50   ~ 0
+P10RX_N
+Text Label 1500 9350 0    50   ~ 0
+P10RX_P
+Text Label 1500 9550 0    50   ~ 0
+P9TX_N
+Text Label 1500 9650 0    50   ~ 0
+P9TX_P
+Text Label 1500 9850 0    50   ~ 0
+P9RX_N
+Text Label 1500 9950 0    50   ~ 0
+P9RX_P
+Text Label 1500 10150 0    50   ~ 0
+Eth_RST
+Text Label 1500 10250 0    50   ~ 0
+USART2_RX
+Text Label 1500 10350 0    50   ~ 0
+USART2_TX
+Text Label 1500 10450 0    50   ~ 0
+MDC_CPU
+Text Label 1500 10550 0    50   ~ 0
+MDIO_CPU
+Text Label 1500 10750 0    50   ~ 0
+P5D_P
+Text Label 1500 10850 0    50   ~ 0
+P5D_N
+Text Label 1500 10950 0    50   ~ 0
+P5C_N
+Text Label 1500 11050 0    50   ~ 0
+P5C_P
+Text Label 1500 11150 0    50   ~ 0
+P5B_P
+Text Label 1500 11250 0    50   ~ 0
+P5B_N
+Text Label 1500 11350 0    50   ~ 0
+P5A_N
+Text Label 1500 11450 0    50   ~ 0
+P5A_P
+Text Label 2000 1250 0    50   ~ 0
+C3_LED_P8_LED0
+Text Label 2000 1350 0    50   ~ 0
+C2_LED_P7_LED0
+Text Label 2000 1450 0    50   ~ 0
+EE_DOUT_C1_LED_P6_LED0
+Text Label 2000 1550 0    50   ~ 0
+EE_CLK_C0_LED_P1_LED0_FLOW
+Text Label 2500 2600 0    50   ~ 0
+R4_LED_P5_LED0_R
+Text Label 2500 2700 0    50   ~ 0
+R3_LED_P4_LED0_R
+Text Label 2500 2800 0    50   ~ 0
+R2_LED_P3_LED0_R
+Text Label 2500 2900 0    50   ~ 0
+R1_LED_P2_LED0_R
+Text Label 2500 3000 0    50   ~ 0
+R0_LED_P1_LED0_R
+Text Label 3000 4325 2    50   ~ 0
+SE_SCLK
+Text Label 3000 4525 2    50   ~ 0
+P0RX_P
+Text Label 3000 4625 2    50   ~ 0
+P0RX_N
+Text Label 3000 4825 2    50   ~ 0
+P0TX_P
+Text Label 3000 4925 2    50   ~ 0
+P0TX_N
+Text Label 3000 6125 2    50   ~ 0
+P4A_P
+Text Label 3000 6225 2    50   ~ 0
+P4A_N
+Text Label 3000 6325 2    50   ~ 0
+P4B_N
+Text Label 3000 6425 2    50   ~ 0
+P4B_P
+Text Label 3000 6525 2    50   ~ 0
+P4C_P
+Text Label 3000 6625 2    50   ~ 0
+P4C_N
+Text Label 3000 6725 2    50   ~ 0
+P4D_N
+Text Label 3000 6825 2    50   ~ 0
+P4D_P
+Text Label 3000 8950 2    50   ~ 0
+P8D_P
+Text Label 3000 9050 2    50   ~ 0
+P8D_N
+Text Label 3000 9150 2    50   ~ 0
+P8C_N
+Text Label 3000 9250 2    50   ~ 0
+P8C_P
+Text Label 3000 9350 2    50   ~ 0
+P8B_P
+Text Label 3000 9450 2    50   ~ 0
+P8B_N
+Text Label 3000 9550 2    50   ~ 0
+P8A_N
+Text Label 3000 9650 2    50   ~ 0
+P8A_P
+Text Label 3000 9850 2    50   ~ 0
+P7D_P
+Text Label 3000 9950 2    50   ~ 0
+P7D_N
+Text Label 3000 10050 2    50   ~ 0
+P7C_N
+Text Label 3000 10150 2    50   ~ 0
+P7C_P
+Text Label 3000 10250 2    50   ~ 0
+P7B_P
+Text Label 3000 10350 2    50   ~ 0
+P7B_N
+Text Label 3000 10450 2    50   ~ 0
+P7A_N
+Text Label 3000 10550 2    50   ~ 0
+P7A_P
+Text Label 3000 10750 2    50   ~ 0
+P6D_P
+Text Label 3000 10850 2    50   ~ 0
+P6D_N
+Text Label 3000 10950 2    50   ~ 0
+P6C_N
+Text Label 3000 11050 2    50   ~ 0
+P6C_P
+Text Label 3000 11150 2    50   ~ 0
+P6B_P
+Text Label 3000 11250 2    50   ~ 0
+P6B_N
+Text Label 3000 11350 2    50   ~ 0
+P6A_N
+Text Label 3000 11450 2    50   ~ 0
+P6A_P
+Text Label 3750 5125 2    50   ~ 0
+R0_LED_P1_LED0
+Text Label 3750 5225 2    50   ~ 0
+R1_LED_P2_LED0
+Text Label 3750 5325 2    50   ~ 0
+R2_LED_P3_LED0
+Text Label 3750 5425 2    50   ~ 0
+R3_LED_P4_LED0
+Text Label 3750 5525 2    50   ~ 0
+R4_LED_P5_LED0
+Text Label 3750 5625 2    50   ~ 0
+EE_CLK_C0_LED_P1_LED0_FLOW
+Text Label 3750 5725 2    50   ~ 0
+EE_DOUT_C1_LED_P6_LED0
+Text Label 3750 5825 2    50   ~ 0
+C2_LED_P7_LED0
+Text Label 3750 5925 2    50   ~ 0
+C3_LED_P8_LED0
+Text Label 4750 4000 0    50   ~ 0
+P1A_P
+Text Label 4750 4100 0    50   ~ 0
+P1A_N
+Text Label 4750 4200 0    50   ~ 0
+P1B_P
+Text Label 4750 4300 0    50   ~ 0
+P1B_N
+Text Label 4750 4400 0    50   ~ 0
+P1C_P
+Text Label 4750 4500 0    50   ~ 0
+P1C_N
+Text Label 4750 4600 0    50   ~ 0
+P1D_P
+Text Label 4750 4700 0    50   ~ 0
+P1D_N
+Text Label 4750 4900 0    50   ~ 0
+P2A_P
+Text Label 4750 5000 0    50   ~ 0
+P2A_N
+Text Label 4750 5100 0    50   ~ 0
+P2B_P
+Text Label 4750 5200 0    50   ~ 0
+P2B_N
+Text Label 4750 5300 0    50   ~ 0
+P2C_P
+Text Label 4750 5400 0    50   ~ 0
+P2C_N
+Text Label 4750 5500 0    50   ~ 0
+P2D_P
+Text Label 4750 5600 0    50   ~ 0
+P2D_N
+Text Label 4750 5800 0    50   ~ 0
+P3A_P
+Text Label 4750 5900 0    50   ~ 0
+P3A_N
+Text Label 4750 6000 0    50   ~ 0
+P3B_P
+Text Label 4750 6100 0    50   ~ 0
+P3B_N
+Text Label 4750 6200 0    50   ~ 0
+P3C_P
+Text Label 4750 6300 0    50   ~ 0
+P3C_N
+Text Label 4750 6400 0    50   ~ 0
+P3D_P
+Text Label 4750 6500 0    50   ~ 0
+P3D_N
+Text Label 4750 6700 0    50   ~ 0
+P4A_P
+Text Label 4750 6800 0    50   ~ 0
+P4A_N
+Text Label 4750 6900 0    50   ~ 0
+P4B_P
+Text Label 4750 7000 0    50   ~ 0
+P4B_N
+Text Label 4750 7100 0    50   ~ 0
+P4C_P
+Text Label 4750 7200 0    50   ~ 0
+P4C_N
+Text Label 4750 7300 0    50   ~ 0
+P4D_P
+Text Label 4750 7400 0    50   ~ 0
+P4D_N
+Text Label 4750 8400 0    50   ~ 0
+P5A_P
+Text Label 4750 8500 0    50   ~ 0
+P5A_N
+Text Label 4750 8600 0    50   ~ 0
+P5B_P
+Text Label 4750 8700 0    50   ~ 0
+P5B_N
+Text Label 4750 8800 0    50   ~ 0
+P5C_P
+Text Label 4750 8900 0    50   ~ 0
+P5C_N
+Text Label 4750 9000 0    50   ~ 0
+P5D_P
+Text Label 4750 9100 0    50   ~ 0
+P5D_N
+Text Label 4750 9300 0    50   ~ 0
+P6A_P
+Text Label 4750 9400 0    50   ~ 0
+P6A_N
+Text Label 4750 9500 0    50   ~ 0
+P6B_P
+Text Label 4750 9600 0    50   ~ 0
+P6B_N
+Text Label 4750 9700 0    50   ~ 0
+P6C_P
+Text Label 4750 9800 0    50   ~ 0
+P6C_N
+Text Label 4750 9900 0    50   ~ 0
+P6D_P
+Text Label 4750 10000 0    50   ~ 0
+P6D_N
+Text Label 4750 10200 0    50   ~ 0
+P7A_P
+Text Label 4750 10300 0    50   ~ 0
+P7A_N
+Text Label 4750 10400 0    50   ~ 0
+P7B_P
+Text Label 4750 10500 0    50   ~ 0
+P7B_N
+Text Label 4750 10600 0    50   ~ 0
+P7C_P
+Text Label 4750 10700 0    50   ~ 0
+P7C_N
+Text Label 4750 10800 0    50   ~ 0
+P7D_P
+Text Label 4750 10900 0    50   ~ 0
+P7D_N
+Text Label 4750 11100 0    50   ~ 0
+P8A_P
+Text Label 4750 11200 0    50   ~ 0
+P8A_N
+Text Label 4750 11300 0    50   ~ 0
+P8B_P
+Text Label 4750 11400 0    50   ~ 0
+P8B_N
+Text Label 4750 11500 0    50   ~ 0
+P8C_P
+Text Label 4750 11600 0    50   ~ 0
+P8C_N
+Text Label 4750 11700 0    50   ~ 0
+P8D_P
+Text Label 4750 11800 0    50   ~ 0
+P8D_N
+Text Label 9500 4450 0    50   ~ 0
+P0RX_P
+Text Label 9500 4550 0    50   ~ 0
+P0RX_N
+Text Label 9500 4750 0    50   ~ 0
+P0TX_P
+Text Label 9500 4850 0    50   ~ 0
+P0TX_N
+Text Label 9500 5075 0    50   ~ 0
+P9RX_P
+Text Label 9500 5175 0    50   ~ 0
+P9RX_N
+Text Label 9500 5375 0    50   ~ 0
+P9TX_P
+Text Label 9500 5475 0    50   ~ 0
+P9TX_N
+Text Label 9500 5700 0    50   ~ 0
+P10RX_P
+Text Label 9500 5800 0    50   ~ 0
+P10RX_N
+Text Label 9500 6000 0    50   ~ 0
+P10TX_P
+Text Label 9500 6100 0    50   ~ 0
+P10TX_N
+Text Label 11000 9950 2    50   ~ 0
+MDIO_CPU
+Text Label 11000 10050 2    50   ~ 0
+MDC_CPU
+Text Label 11000 11100 2    50   ~ 0
+USART2_TX
+Text Label 11000 11200 2    50   ~ 0
+USART2_RX
+Text Label 11500 8250 2    50   ~ 0
+EE_CLK_C0_LED_P1_LED0_FLOW
+Text Label 11500 8350 2    50   ~ 0
+EE_DOUT_C1_LED_P6_LED0
+Text Label 11500 8450 2    50   ~ 0
+C2_LED_P7_LED0
+Text Label 11500 8550 2    50   ~ 0
+C3_LED_P8_LED0
+Text Label 11500 8650 2    50   ~ 0
+R0_LED_P1_LED0_R
+Text Label 11500 8750 2    50   ~ 0
+R1_LED_P2_LED0_R
+Text Label 11500 8850 2    50   ~ 0
+R2_LED_P3_LED0_R
+Text Label 11500 8950 2    50   ~ 0
+R3_LED_P4_LED0_R
+Text Label 11500 9050 2    50   ~ 0
+R4_LED_P5_LED0_R
+$Comp
+L power:+3V3 #PWR027
+U 1 1 639F52C5
+P 1550 11750
+F 0 "#PWR027" H 1550 11600 50  0001 C CNN
+F 1 "+3V3" V 1565 11878 50  0000 L CNN
+F 2 "" H 1550 11750 50  0001 C CNN
+F 3 "" H 1550 11750 50  0001 C CNN
+	1    1550 11750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:+3V3 #PWR022
+U 1 1 63FF0C87
+P 1575 12500
+F 0 "#PWR022" H 1575 12350 50  0001 C CNN
+F 1 "+3V3" V 1590 12628 50  0000 L CNN
+F 2 "" H 1575 12500 50  0001 C CNN
+F 3 "" H 1575 12500 50  0001 C CNN
+	1    1575 12500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:VBUS #PWR014
+U 1 1 6443E1E4
+P 2750 7125
+F 0 "#PWR014" H 2750 6975 50  0001 C CNN
+F 1 "VBUS" V 2765 7253 50  0000 L CNN
+F 2 "" H 2750 7125 50  0001 C CNN
+F 3 "" H 2750 7125 50  0001 C CNN
+	1    2750 7125
+	0    1    1    0   
+$EndComp
+$Comp
+L power:VBUS #PWR?
+U 1 1 6476C295
+P 2850 13600
+AR Path="/644A2771/6476C295" Ref="#PWR?"  Part="1" 
+AR Path="/6476C295" Ref="#PWR036"  Part="1" 
+F 0 "#PWR036" H 2850 13450 50  0001 C CNN
+F 1 "VBUS" H 2865 13773 50  0000 C CNN
+F 2 "" H 2850 13600 50  0001 C CNN
+F 3 "" H 2850 13600 50  0001 C CNN
+	1    2850 13600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Kpk:3V3_SFP #PWR0101
+U 1 1 66629E5F
+P 5375 13050
+F 0 "#PWR0101" H 5375 12900 50  0001 C CNN
+F 1 "3V3_SFP" H 5390 13223 50  0000 C CNN
+F 2 "" H 5375 13050 50  0001 C CNN
+F 3 "" H 5375 13050 50  0001 C CNN
+	1    5375 13050
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3V3 #PWR01
+U 1 1 63B37A66
+P 10500 9675
+F 0 "#PWR01" H 10500 9525 50  0001 C CNN
+F 1 "+3V3" H 10515 9848 50  0000 C CNN
+F 2 "" H 10500 9675 50  0001 C CNN
+F 3 "" H 10500 9675 50  0001 C CNN
+	1    10500 9675
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3V3 #PWR043
+U 1 1 63A9D158
+P 10500 10825
+F 0 "#PWR043" H 10500 10675 50  0001 C CNN
+F 1 "+3V3" H 10515 10998 50  0000 C CNN
+F 2 "" H 10500 10825 50  0001 C CNN
+F 3 "" H 10500 10825 50  0001 C CNN
+	1    10500 10825
+	1    0    0    -1  
+$EndComp
+$Comp
+L Kpk:3V3_SFP #PWR028
+U 1 1 63ECB880
+P 11275 4125
+F 0 "#PWR028" H 11275 3975 50  0001 C CNN
+F 1 "3V3_SFP" H 11290 4298 50  0000 C CNN
+F 2 "" H 11275 4125 50  0001 C CNN
+F 3 "" H 11275 4125 50  0001 C CNN
+	1    11275 4125
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VBUS #PWR038
+U 1 1 644A7923
+P 15025 15050
+F 0 "#PWR038" H 15025 14900 50  0001 C CNN
+F 1 "VBUS" H 15040 15223 50  0000 C CNN
+F 2 "" H 15025 15050 50  0001 C CNN
+F 3 "" H 15025 15050 50  0001 C CNN
+	1    15025 15050
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3V3 #PWR039
+U 1 1 62BF5407
+P 15525 15050
+F 0 "#PWR039" H 15525 14900 50  0001 C CNN
+F 1 "+3V3" H 15540 15223 50  0000 C CNN
+F 2 "" H 15525 15050 50  0001 C CNN
+F 3 "" H 15525 15050 50  0001 C CNN
+	1    15525 15050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Kpk:3V3_SFP #PWR0102
+U 1 1 66BF8808
+P 16000 15050
+F 0 "#PWR0102" H 16000 14900 50  0001 C CNN
+F 1 "3V3_SFP" H 16015 15223 50  0000 C CNN
+F 2 "" H 16000 15050 50  0001 C CNN
+F 3 "" H 16000 15050 50  0001 C CNN
+	1    16000 15050
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG09
+U 1 1 639F52C4
+P 15025 15300
+F 0 "#FLG09" H 15025 15375 50  0001 C CNN
+F 1 "PWR_FLAG" H 15025 15473 50  0000 C CNN
+F 2 "" H 15025 15300 50  0001 C CNN
+F 3 "~" H 15025 15300 50  0001 C CNN
+	1    15025 15300
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG010
+U 1 1 639F52C3
+P 15525 15300
+F 0 "#FLG010" H 15525 15375 50  0001 C CNN
+F 1 "PWR_FLAG" H 15525 15473 50  0000 C CNN
+F 2 "" H 15525 15300 50  0001 C CNN
+F 3 "~" H 15525 15300 50  0001 C CNN
+	1    15525 15300
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0101
+U 1 1 66BFA8D5
+P 16000 15300
+F 0 "#FLG0101" H 16000 15375 50  0001 C CNN
+F 1 "PWR_FLAG" H 16000 15473 50  0000 C CNN
+F 2 "" H 16000 15300 50  0001 C CNN
+F 3 "~" H 16000 15300 50  0001 C CNN
+	1    16000 15300
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG08
+U 1 1 639F52CF
+P 18025 15050
+F 0 "#FLG08" H 18025 15125 50  0001 C CNN
+F 1 "PWR_FLAG" H 18025 15223 50  0000 C CNN
+F 2 "" H 18025 15050 50  0001 C CNN
+F 3 "~" H 18025 15050 50  0001 C CNN
+	1    18025 15050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP?
+U 1 1 67FA842C
+P 1500 10150
+AR Path="/652F50B5/67FA842C" Ref="TP?"  Part="1" 
+AR Path="/652EC104/67FA842C" Ref="TP?"  Part="1" 
+AR Path="/67FA842C" Ref="TP3"  Part="1" 
+F 0 "TP3" V 1500 10400 50  0000 C CNN
+F 1 "TestPoint" H 1558 10177 50  0001 L CNN
+F 2 "TestPoint:TestPoint_Pad_D1.0mm" H 1700 10150 50  0001 C CNN
+F 3 "~" H 1700 10150 50  0001 C CNN
+F 4 "" H 1500 10150 50  0001 C CNN "DNP"
+F 5 "DNI" H 1500 10150 50  0001 C CNN "MPN"
+F 6 "" H 1500 10150 50  0001 C CNN "MPN if populated"
+	1    1500 10150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 6476C263
+P 1275 14550
+AR Path="/60B36DE4/6476C263" Ref="#PWR?"  Part="1" 
+AR Path="/6476C263" Ref="#PWR037"  Part="1" 
+AR Path="/61C28A9F/6476C263" Ref="#PWR?"  Part="1" 
+AR Path="/62568438/6476C263" Ref="#PWR?"  Part="1" 
+AR Path="/644A2771/6476C263" Ref="#PWR?"  Part="1" 
+F 0 "#PWR037" H 1275 14300 50  0001 C CNN
+F 1 "GND" H 1280 14377 50  0000 C CNN
+F 2 "" H 1275 14550 50  0001 C CNN
+F 3 "" H 1275 14550 50  0001 C CNN
+	1    1275 14550
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 62ADAC60
+P 1950 4225
+AR Path="/60B36DE4/62ADAC60" Ref="#PWR?"  Part="1" 
+AR Path="/60BC418D/62ADAC60" Ref="#PWR?"  Part="1" 
+AR Path="/60C92C48/62ADAC60" Ref="#PWR?"  Part="1" 
+AR Path="/65B75A35/62ADAC60" Ref="#PWR?"  Part="1" 
+AR Path="/62ADAC60" Ref="#PWR03"  Part="1" 
+F 0 "#PWR03" H 1950 3975 50  0001 C CNN
+F 1 "GND" V 1925 4050 50  0000 C CNN
+F 2 "" H 1950 4225 50  0001 C CNN
+F 3 "" H 1950 4225 50  0001 C CNN
+	1    1950 4225
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 639F52B2
+P 1950 5125
+AR Path="/60B36DE4/639F52B2" Ref="#PWR?"  Part="1" 
+AR Path="/60BC418D/639F52B2" Ref="#PWR?"  Part="1" 
+AR Path="/60C92C48/639F52B2" Ref="#PWR?"  Part="1" 
+AR Path="/65B75A35/639F52B2" Ref="#PWR?"  Part="1" 
+AR Path="/639F52B2" Ref="#PWR09"  Part="1" 
+F 0 "#PWR09" H 1950 4875 50  0001 C CNN
+F 1 "GND" V 1925 4950 50  0000 C CNN
+F 2 "" H 1950 5125 50  0001 C CNN
+F 3 "" H 1950 5125 50  0001 C CNN
+	1    1950 5125
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 639F52B3
+P 1950 6025
+AR Path="/60B36DE4/639F52B3" Ref="#PWR?"  Part="1" 
+AR Path="/60BC418D/639F52B3" Ref="#PWR?"  Part="1" 
+AR Path="/60C92C48/639F52B3" Ref="#PWR?"  Part="1" 
+AR Path="/65B75A35/639F52B3" Ref="#PWR?"  Part="1" 
+AR Path="/639F52B3" Ref="#PWR010"  Part="1" 
+F 0 "#PWR010" H 1950 5775 50  0001 C CNN
+F 1 "GND" V 1925 5850 50  0000 C CNN
+F 2 "" H 1950 6025 50  0001 C CNN
+F 3 "" H 1950 6025 50  0001 C CNN
+	1    1950 6025
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 62B2C609
+P 1950 6925
+AR Path="/60B36DE4/62B2C609" Ref="#PWR?"  Part="1" 
+AR Path="/60BC418D/62B2C609" Ref="#PWR?"  Part="1" 
+AR Path="/60C92C48/62B2C609" Ref="#PWR?"  Part="1" 
+AR Path="/65B75A35/62B2C609" Ref="#PWR?"  Part="1" 
+AR Path="/62B2C609" Ref="#PWR012"  Part="1" 
+F 0 "#PWR012" H 1950 6675 50  0001 C CNN
+F 1 "GND" V 1955 6797 50  0000 R CNN
+F 2 "" H 1950 6925 50  0001 C CNN
+F 3 "" H 1950 6925 50  0001 C CNN
+	1    1950 6925
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 639F52B7
+P 1950 8850
+AR Path="/60B36DE4/639F52B7" Ref="#PWR?"  Part="1" 
+AR Path="/60BC418D/639F52B7" Ref="#PWR?"  Part="1" 
+AR Path="/60C92C48/639F52B7" Ref="#PWR?"  Part="1" 
+AR Path="/65B75A35/639F52B7" Ref="#PWR?"  Part="1" 
+AR Path="/639F52B7" Ref="#PWR015"  Part="1" 
+F 0 "#PWR015" H 1950 8600 50  0001 C CNN
+F 1 "GND" V 1975 8675 50  0000 C CNN
+F 2 "" H 1950 8850 50  0001 C CNN
+F 3 "" H 1950 8850 50  0001 C CNN
+	1    1950 8850
+	0    1    -1   0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 639F52B8
+P 1950 9150
+AR Path="/60B36DE4/639F52B8" Ref="#PWR?"  Part="1" 
+AR Path="/60BC418D/639F52B8" Ref="#PWR?"  Part="1" 
+AR Path="/60C92C48/639F52B8" Ref="#PWR?"  Part="1" 
+AR Path="/65B75A35/639F52B8" Ref="#PWR?"  Part="1" 
+AR Path="/639F52B8" Ref="#PWR017"  Part="1" 
+F 0 "#PWR017" H 1950 8900 50  0001 C CNN
+F 1 "GND" V 1975 8975 50  0000 C CNN
+F 2 "" H 1950 9150 50  0001 C CNN
+F 3 "" H 1950 9150 50  0001 C CNN
+	1    1950 9150
+	0    1    -1   0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 658C14A1
+P 1950 9450
+AR Path="/60B36DE4/658C14A1" Ref="#PWR?"  Part="1" 
+AR Path="/60BC418D/658C14A1" Ref="#PWR?"  Part="1" 
+AR Path="/60C92C48/658C14A1" Ref="#PWR?"  Part="1" 
+AR Path="/65B75A35/658C14A1" Ref="#PWR?"  Part="1" 
+AR Path="/658C14A1" Ref="#PWR018"  Part="1" 
+F 0 "#PWR018" H 1950 9200 50  0001 C CNN
+F 1 "GND" V 1975 9275 50  0000 C CNN
+F 2 "" H 1950 9450 50  0001 C CNN
+F 3 "" H 1950 9450 50  0001 C CNN
+	1    1950 9450
+	0    1    -1   0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 658D0DAF
+P 1950 9750
+AR Path="/60B36DE4/658D0DAF" Ref="#PWR?"  Part="1" 
+AR Path="/60BC418D/658D0DAF" Ref="#PWR?"  Part="1" 
+AR Path="/60C92C48/658D0DAF" Ref="#PWR?"  Part="1" 
+AR Path="/65B75A35/658D0DAF" Ref="#PWR?"  Part="1" 
+AR Path="/658D0DAF" Ref="#PWR019"  Part="1" 
+F 0 "#PWR019" H 1950 9500 50  0001 C CNN
+F 1 "GND" V 1975 9575 50  0000 C CNN
+F 2 "" H 1950 9750 50  0001 C CNN
+F 3 "" H 1950 9750 50  0001 C CNN
+	1    1950 9750
+	0    1    -1   0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 658E09A7
+P 1950 10050
+AR Path="/60B36DE4/658E09A7" Ref="#PWR?"  Part="1" 
+AR Path="/60BC418D/658E09A7" Ref="#PWR?"  Part="1" 
+AR Path="/60C92C48/658E09A7" Ref="#PWR?"  Part="1" 
+AR Path="/65B75A35/658E09A7" Ref="#PWR?"  Part="1" 
+AR Path="/658E09A7" Ref="#PWR021"  Part="1" 
+F 0 "#PWR021" H 1950 9800 50  0001 C CNN
+F 1 "GND" V 1975 9875 50  0000 C CNN
+F 2 "" H 1950 10050 50  0001 C CNN
+F 3 "" H 1950 10050 50  0001 C CNN
+	1    1950 10050
+	0    1    -1   0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 659336D3
+P 1950 10650
+AR Path="/60B36DE4/659336D3" Ref="#PWR?"  Part="1" 
+AR Path="/60BC418D/659336D3" Ref="#PWR?"  Part="1" 
+AR Path="/60C92C48/659336D3" Ref="#PWR?"  Part="1" 
+AR Path="/65B75A35/659336D3" Ref="#PWR?"  Part="1" 
+AR Path="/659336D3" Ref="#PWR023"  Part="1" 
+F 0 "#PWR023" H 1950 10400 50  0001 C CNN
+F 1 "GND" V 1975 10475 50  0000 C CNN
+F 2 "" H 1950 10650 50  0001 C CNN
+F 3 "" H 1950 10650 50  0001 C CNN
+	1    1950 10650
+	0    1    -1   0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 65985907
+P 1950 11550
+AR Path="/60B36DE4/65985907" Ref="#PWR?"  Part="1" 
+AR Path="/60BC418D/65985907" Ref="#PWR?"  Part="1" 
+AR Path="/60C92C48/65985907" Ref="#PWR?"  Part="1" 
+AR Path="/65B75A35/65985907" Ref="#PWR?"  Part="1" 
+AR Path="/65985907" Ref="#PWR025"  Part="1" 
+F 0 "#PWR025" H 1950 11300 50  0001 C CNN
+F 1 "GND" V 1975 11375 50  0000 C CNN
+F 2 "" H 1950 11550 50  0001 C CNN
+F 3 "" H 1950 11550 50  0001 C CNN
+	1    1950 11550
+	0    1    -1   0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 64029EF2
+P 2500 12500
+AR Path="/60B36DE4/64029EF2" Ref="#PWR?"  Part="1" 
+AR Path="/60BC418D/64029EF2" Ref="#PWR?"  Part="1" 
+AR Path="/60C92C48/64029EF2" Ref="#PWR?"  Part="1" 
+AR Path="/65B75A35/64029EF2" Ref="#PWR?"  Part="1" 
+AR Path="/64029EF2" Ref="#PWR096"  Part="1" 
+F 0 "#PWR096" H 2500 12250 50  0001 C CNN
+F 1 "GND" V 2475 12325 50  0000 C CNN
+F 2 "" H 2500 12500 50  0001 C CNN
+F 3 "" H 2500 12500 50  0001 C CNN
+	1    2500 12500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GNDREF #PWR?
+U 1 1 63E3F6CD
+P 2500 15825
+AR Path="/64F7ED8C/63E3F6CD" Ref="#PWR?"  Part="1" 
+AR Path="/63E3F6CD" Ref="#PWR097"  Part="1" 
+F 0 "#PWR097" H 2500 15575 50  0001 C CNN
+F 1 "GNDREF" H 2505 15652 50  0000 C CNN
+F 2 "" H 2500 15825 50  0001 C CNN
+F 3 "" H 2500 15825 50  0001 C CNN
+	1    2500 15825
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 639F52B5
+P 2550 4225
+AR Path="/60B36DE4/639F52B5" Ref="#PWR?"  Part="1" 
+AR Path="/60BC418D/639F52B5" Ref="#PWR?"  Part="1" 
+AR Path="/60C92C48/639F52B5" Ref="#PWR?"  Part="1" 
+AR Path="/65B75A35/639F52B5" Ref="#PWR?"  Part="1" 
+AR Path="/639F52B5" Ref="#PWR04"  Part="1" 
+F 0 "#PWR04" H 2550 3975 50  0001 C CNN
+F 1 "GND" V 2575 4050 50  0000 C CNN
+F 2 "" H 2550 4225 50  0001 C CNN
+F 3 "" H 2550 4225 50  0001 C CNN
+	1    2550 4225
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 639F52B6
+P 2550 4425
+AR Path="/60B36DE4/639F52B6" Ref="#PWR?"  Part="1" 
+AR Path="/60BC418D/639F52B6" Ref="#PWR?"  Part="1" 
+AR Path="/60C92C48/639F52B6" Ref="#PWR?"  Part="1" 
+AR Path="/65B75A35/639F52B6" Ref="#PWR?"  Part="1" 
+AR Path="/639F52B6" Ref="#PWR05"  Part="1" 
+F 0 "#PWR05" H 2550 4175 50  0001 C CNN
+F 1 "GND" V 2575 4250 50  0000 C CNN
+F 2 "" H 2550 4425 50  0001 C CNN
+F 3 "" H 2550 4425 50  0001 C CNN
+	1    2550 4425
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 62C1AC45
+P 2550 4725
+AR Path="/60B36DE4/62C1AC45" Ref="#PWR?"  Part="1" 
+AR Path="/60BC418D/62C1AC45" Ref="#PWR?"  Part="1" 
+AR Path="/60C92C48/62C1AC45" Ref="#PWR?"  Part="1" 
+AR Path="/65B75A35/62C1AC45" Ref="#PWR?"  Part="1" 
+AR Path="/62C1AC45" Ref="#PWR07"  Part="1" 
+F 0 "#PWR07" H 2550 4475 50  0001 C CNN
+F 1 "GND" V 2575 4550 50  0000 C CNN
+F 2 "" H 2550 4725 50  0001 C CNN
+F 3 "" H 2550 4725 50  0001 C CNN
+	1    2550 4725
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 657BEF79
+P 2550 5025
+AR Path="/60B36DE4/657BEF79" Ref="#PWR?"  Part="1" 
+AR Path="/60BC418D/657BEF79" Ref="#PWR?"  Part="1" 
+AR Path="/60C92C48/657BEF79" Ref="#PWR?"  Part="1" 
+AR Path="/65B75A35/657BEF79" Ref="#PWR?"  Part="1" 
+AR Path="/657BEF79" Ref="#PWR08"  Part="1" 
+F 0 "#PWR08" H 2550 4775 50  0001 C CNN
+F 1 "GND" V 2575 4850 50  0000 C CNN
+F 2 "" H 2550 5025 50  0001 C CNN
+F 3 "" H 2550 5025 50  0001 C CNN
+	1    2550 5025
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 6582CCF9
+P 2550 6025
+AR Path="/60B36DE4/6582CCF9" Ref="#PWR?"  Part="1" 
+AR Path="/60BC418D/6582CCF9" Ref="#PWR?"  Part="1" 
+AR Path="/60C92C48/6582CCF9" Ref="#PWR?"  Part="1" 
+AR Path="/65B75A35/6582CCF9" Ref="#PWR?"  Part="1" 
+AR Path="/6582CCF9" Ref="#PWR011"  Part="1" 
+F 0 "#PWR011" H 2550 5775 50  0001 C CNN
+F 1 "GND" V 2575 5850 50  0000 C CNN
+F 2 "" H 2550 6025 50  0001 C CNN
+F 3 "" H 2550 6025 50  0001 C CNN
+	1    2550 6025
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 62C04F89
+P 2550 6925
+AR Path="/60B36DE4/62C04F89" Ref="#PWR?"  Part="1" 
+AR Path="/60BC418D/62C04F89" Ref="#PWR?"  Part="1" 
+AR Path="/60C92C48/62C04F89" Ref="#PWR?"  Part="1" 
+AR Path="/65B75A35/62C04F89" Ref="#PWR?"  Part="1" 
+AR Path="/62C04F89" Ref="#PWR013"  Part="1" 
+F 0 "#PWR013" H 2550 6675 50  0001 C CNN
+F 1 "GND" V 2555 6797 50  0000 R CNN
+F 2 "" H 2550 6925 50  0001 C CNN
+F 3 "" H 2550 6925 50  0001 C CNN
+	1    2550 6925
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 65B0CFE0
+P 2550 8850
+AR Path="/60B36DE4/65B0CFE0" Ref="#PWR?"  Part="1" 
+AR Path="/60BC418D/65B0CFE0" Ref="#PWR?"  Part="1" 
+AR Path="/60C92C48/65B0CFE0" Ref="#PWR?"  Part="1" 
+AR Path="/65B75A35/65B0CFE0" Ref="#PWR?"  Part="1" 
+AR Path="/65B0CFE0" Ref="#PWR016"  Part="1" 
+F 0 "#PWR016" H 2550 8600 50  0001 C CNN
+F 1 "GND" V 2575 8675 50  0000 C CNN
+F 2 "" H 2550 8850 50  0001 C CNN
+F 3 "" H 2550 8850 50  0001 C CNN
+	1    2550 8850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 65BD1BA3
+P 2550 9750
+AR Path="/60B36DE4/65BD1BA3" Ref="#PWR?"  Part="1" 
+AR Path="/60BC418D/65BD1BA3" Ref="#PWR?"  Part="1" 
+AR Path="/60C92C48/65BD1BA3" Ref="#PWR?"  Part="1" 
+AR Path="/65B75A35/65BD1BA3" Ref="#PWR?"  Part="1" 
+AR Path="/65BD1BA3" Ref="#PWR020"  Part="1" 
+F 0 "#PWR020" H 2550 9500 50  0001 C CNN
+F 1 "GND" V 2575 9575 50  0000 C CNN
+F 2 "" H 2550 9750 50  0001 C CNN
+F 3 "" H 2550 9750 50  0001 C CNN
+	1    2550 9750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 65D0AF36
+P 2550 10650
+AR Path="/60B36DE4/65D0AF36" Ref="#PWR?"  Part="1" 
+AR Path="/60BC418D/65D0AF36" Ref="#PWR?"  Part="1" 
+AR Path="/60C92C48/65D0AF36" Ref="#PWR?"  Part="1" 
+AR Path="/65B75A35/65D0AF36" Ref="#PWR?"  Part="1" 
+AR Path="/65D0AF36" Ref="#PWR024"  Part="1" 
+F 0 "#PWR024" H 2550 10400 50  0001 C CNN
+F 1 "GND" V 2575 10475 50  0000 C CNN
+F 2 "" H 2550 10650 50  0001 C CNN
+F 3 "" H 2550 10650 50  0001 C CNN
+	1    2550 10650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 62F3F56C
+P 2800 11650
+AR Path="/60B36DE4/62F3F56C" Ref="#PWR?"  Part="1" 
+AR Path="/60BC418D/62F3F56C" Ref="#PWR?"  Part="1" 
+AR Path="/60C92C48/62F3F56C" Ref="#PWR?"  Part="1" 
+AR Path="/65B75A35/62F3F56C" Ref="#PWR?"  Part="1" 
+AR Path="/62F3F56C" Ref="#PWR026"  Part="1" 
+F 0 "#PWR026" H 2800 11400 50  0001 C CNN
+F 1 "GND" V 2775 11475 50  0000 C CNN
+F 2 "" H 2800 11650 50  0001 C CNN
+F 3 "" H 2800 11650 50  0001 C CNN
+	1    2800 11650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 6466C6BF
+P 3850 4575
+AR Path="/60B36DE4/6466C6BF" Ref="#PWR?"  Part="1" 
+AR Path="/60BC418D/6466C6BF" Ref="#PWR?"  Part="1" 
+AR Path="/60C92C48/6466C6BF" Ref="#PWR?"  Part="1" 
+AR Path="/65B75A35/6466C6BF" Ref="#PWR?"  Part="1" 
+AR Path="/6466C6BF" Ref="#PWR06"  Part="1" 
+AR Path="/644A2771/6466C6BF" Ref="#PWR?"  Part="1" 
+F 0 "#PWR06" H 3850 4325 50  0001 C CNN
+F 1 "GND" H 3855 4402 50  0000 C CNN
+F 2 "" H 3850 4575 50  0001 C CNN
+F 3 "" H 3850 4575 50  0001 C CNN
+	1    3850 4575
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 64C10DF4
+P 10500 10250
+AR Path="/60B36DE4/64C10DF4" Ref="#PWR?"  Part="1" 
+AR Path="/60BC418D/64C10DF4" Ref="#PWR?"  Part="1" 
+AR Path="/60C92C48/64C10DF4" Ref="#PWR?"  Part="1" 
+AR Path="/65B75A35/64C10DF4" Ref="#PWR?"  Part="1" 
+AR Path="/64C10DF4" Ref="#PWR02"  Part="1" 
+AR Path="/644A2771/64C10DF4" Ref="#PWR?"  Part="1" 
+F 0 "#PWR02" H 10500 10000 50  0001 C CNN
+F 1 "GND" H 10505 10077 50  0000 C CNN
+F 2 "" H 10500 10250 50  0001 C CNN
+F 3 "" H 10500 10250 50  0001 C CNN
+	1    10500 10250
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 63A9D142
+P 10500 11400
+AR Path="/60B36DE4/63A9D142" Ref="#PWR?"  Part="1" 
+AR Path="/60BC418D/63A9D142" Ref="#PWR?"  Part="1" 
+AR Path="/60C92C48/63A9D142" Ref="#PWR?"  Part="1" 
+AR Path="/65B75A35/63A9D142" Ref="#PWR?"  Part="1" 
+AR Path="/63A9D142" Ref="#PWR088"  Part="1" 
+AR Path="/644A2771/63A9D142" Ref="#PWR?"  Part="1" 
+F 0 "#PWR088" H 10500 11150 50  0001 C CNN
+F 1 "GND" H 10505 11227 50  0000 C CNN
+F 2 "" H 10500 11400 50  0001 C CNN
+F 3 "" H 10500 11400 50  0001 C CNN
+	1    10500 11400
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 639F52CE
+P 18025 15300
+AR Path="/60B36DE4/639F52CE" Ref="#PWR?"  Part="1" 
+AR Path="/639F52CE" Ref="#PWR044"  Part="1" 
+AR Path="/61C28A9F/639F52CE" Ref="#PWR?"  Part="1" 
+AR Path="/62568438/639F52CE" Ref="#PWR?"  Part="1" 
+F 0 "#PWR044" H 18025 15050 50  0001 C CNN
+F 1 "GND" H 18030 15127 50  0000 C CNN
+F 2 "" H 18025 15300 50  0001 C CNN
+F 3 "" H 18025 15300 50  0001 C CNN
+	1    18025 15300
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 63FB831B
+P 1850 12500
+AR Path="/5BC3BC6B/63FB831B" Ref="R?"  Part="1" 
+AR Path="/5BC3335F/63FB831B" Ref="R?"  Part="1" 
+AR Path="/5FEF0359/63FB831B" Ref="R?"  Part="1" 
+AR Path="/626D70DC/63FB831B" Ref="R?"  Part="1" 
+AR Path="/624AAE10/63FB831B" Ref="R?"  Part="1" 
+AR Path="/63B0641B/63FB831B" Ref="R?"  Part="1" 
+AR Path="/63FB831B" Ref="R75"  Part="1" 
+F 0 "R75" V 2036 12500 50  0000 C CNN
+F 1 "1K" V 1950 12500 43  0000 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" H 1850 12500 50  0001 C CNN
+F 3 "~" H 1850 12500 50  0001 C CNN
+F 4 "RC0402FR-071KL" V 1850 12500 50  0001 C CNN "MPN"
+F 5 "C106235" H 1850 12500 50  0001 C CNN "LCSC#"
+F 6 "RC0402FR-071KL" H 1850 12500 50  0001 C CNN "MPN if populated"
+F 7 "0.0007" H 1850 12500 50  0001 C CNN "Cost @ 100pcs"
+F 8 "Yageo" H 1850 12500 50  0001 C CNN "Manufacturer "
+F 9 "1%" H 1850 12500 50  0001 C CNN "Tolerance"
+F 10 "RES SMD 1K OHM 1% 1/16W 0402" H 1850 12500 50  0001 C CNN "Description"
+F 11 "-55°C ~ 155°C" H 1850 12500 50  0001 C CNN "Operating Temperature"
+F 12 "0.0007" H 1850 12500 50  0001 C CNN "Cost @10pcs"
+F 13 "LCSC" H 1850 12500 50  0001 C CNN "Supplier 1"
+F 14 "0402" H 1850 12500 50  0001 C CNN "Package"
+	1    1850 12500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 64606C72
+P 2075 2600
+AR Path="/634D181C/64606C72" Ref="R?"  Part="1" 
+AR Path="/64606C72" Ref="R1"  Part="1" 
+AR Path="/644A2771/64606C72" Ref="R?"  Part="1" 
+F 0 "R1" V 2025 2350 50  0000 C CNN
+F 1 "150R" V 2025 2800 50  0000 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" H 2075 2600 50  0001 C CNN
+F 3 "~" H 2075 2600 50  0001 C CNN
+F 4 "0.001" H 2075 2600 50  0001 C CNN "Cost @ 100pcs"
+F 5 "0.001" H 2075 2600 50  0001 C CNN "Cost @10pcs"
+F 6 "RES 150 OHM 1% 1/16W 0402" H 2075 2600 50  0001 C CNN "Description"
+F 7 "C138054" H 2075 2600 50  0001 C CNN "LCSC#"
+F 8 "RC0402FR-07150RL" H 2075 2600 50  0001 C CNN "MPN"
+F 9 "RC0402FR-07150RL" H 2075 2600 50  0001 C CNN "MPN if populated"
+F 10 "Yageo" H 2075 2600 50  0001 C CNN "Manufacturer "
+F 11 "-55°C ~ 155°C" H 2075 2600 50  0001 C CNN "Operating Temperature"
+F 12 "0402" H 2075 2600 50  0001 C CNN "Package"
+F 13 "LCSC" H 2075 2600 50  0001 C CNN "Supplier 1"
+F 14 "1%" H 2075 2600 50  0001 C CNN "Tolerance"
+	1    2075 2600
+	0    -1   1    0   
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 653ACBCD
+P 2075 2700
+AR Path="/634D181C/653ACBCD" Ref="R?"  Part="1" 
+AR Path="/653ACBCD" Ref="R2"  Part="1" 
+AR Path="/644A2771/653ACBCD" Ref="R?"  Part="1" 
+F 0 "R2" V 2025 2450 50  0000 C CNN
+F 1 "150R" V 2025 2900 50  0000 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" H 2075 2700 50  0001 C CNN
+F 3 "~" H 2075 2700 50  0001 C CNN
+F 4 "0.001" H 2075 2700 50  0001 C CNN "Cost @ 100pcs"
+F 5 "0.001" H 2075 2700 50  0001 C CNN "Cost @10pcs"
+F 6 "RES 150 OHM 1% 1/16W 0402" H 2075 2700 50  0001 C CNN "Description"
+F 7 "C138054" H 2075 2700 50  0001 C CNN "LCSC#"
+F 8 "RC0402FR-07150RL" H 2075 2700 50  0001 C CNN "MPN"
+F 9 "RC0402FR-07150RL" H 2075 2700 50  0001 C CNN "MPN if populated"
+F 10 "Yageo" H 2075 2700 50  0001 C CNN "Manufacturer "
+F 11 "-55°C ~ 155°C" H 2075 2700 50  0001 C CNN "Operating Temperature"
+F 12 "0402" H 2075 2700 50  0001 C CNN "Package"
+F 13 "LCSC" H 2075 2700 50  0001 C CNN "Supplier 1"
+F 14 "1%" H 2075 2700 50  0001 C CNN "Tolerance"
+	1    2075 2700
+	0    -1   1    0   
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 653AD13A
+P 2075 2800
+AR Path="/634D181C/653AD13A" Ref="R?"  Part="1" 
+AR Path="/653AD13A" Ref="R3"  Part="1" 
+AR Path="/644A2771/653AD13A" Ref="R?"  Part="1" 
+F 0 "R3" V 2025 2550 50  0000 C CNN
+F 1 "150R" V 2025 3000 50  0000 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" H 2075 2800 50  0001 C CNN
+F 3 "~" H 2075 2800 50  0001 C CNN
+F 4 "0.001" H 2075 2800 50  0001 C CNN "Cost @ 100pcs"
+F 5 "0.001" H 2075 2800 50  0001 C CNN "Cost @10pcs"
+F 6 "RES 150 OHM 1% 1/16W 0402" H 2075 2800 50  0001 C CNN "Description"
+F 7 "C138054" H 2075 2800 50  0001 C CNN "LCSC#"
+F 8 "RC0402FR-07150RL" H 2075 2800 50  0001 C CNN "MPN"
+F 9 "RC0402FR-07150RL" H 2075 2800 50  0001 C CNN "MPN if populated"
+F 10 "Yageo" H 2075 2800 50  0001 C CNN "Manufacturer "
+F 11 "-55°C ~ 155°C" H 2075 2800 50  0001 C CNN "Operating Temperature"
+F 12 "0402" H 2075 2800 50  0001 C CNN "Package"
+F 13 "LCSC" H 2075 2800 50  0001 C CNN "Supplier 1"
+F 14 "1%" H 2075 2800 50  0001 C CNN "Tolerance"
+	1    2075 2800
+	0    -1   1    0   
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 64606C84
+P 2075 2900
+AR Path="/634D181C/64606C84" Ref="R?"  Part="1" 
+AR Path="/64606C84" Ref="R4"  Part="1" 
+AR Path="/644A2771/64606C84" Ref="R?"  Part="1" 
+F 0 "R4" V 2025 2650 50  0000 C CNN
+F 1 "150R" V 2025 3100 50  0000 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" H 2075 2900 50  0001 C CNN
+F 3 "~" H 2075 2900 50  0001 C CNN
+F 4 "0.001" H 2075 2900 50  0001 C CNN "Cost @ 100pcs"
+F 5 "0.001" H 2075 2900 50  0001 C CNN "Cost @10pcs"
+F 6 "RES 150 OHM 1% 1/16W 0402" H 2075 2900 50  0001 C CNN "Description"
+F 7 "C138054" H 2075 2900 50  0001 C CNN "LCSC#"
+F 8 "RC0402FR-07150RL" H 2075 2900 50  0001 C CNN "MPN"
+F 9 "RC0402FR-07150RL" H 2075 2900 50  0001 C CNN "MPN if populated"
+F 10 "Yageo" H 2075 2900 50  0001 C CNN "Manufacturer "
+F 11 "-55°C ~ 155°C" H 2075 2900 50  0001 C CNN "Operating Temperature"
+F 12 "0402" H 2075 2900 50  0001 C CNN "Package"
+F 13 "LCSC" H 2075 2900 50  0001 C CNN "Supplier 1"
+F 14 "1%" H 2075 2900 50  0001 C CNN "Tolerance"
+	1    2075 2900
+	0    -1   1    0   
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 64606C96
+P 2075 3000
+AR Path="/634D181C/64606C96" Ref="R?"  Part="1" 
+AR Path="/64606C96" Ref="R5"  Part="1" 
+AR Path="/644A2771/64606C96" Ref="R?"  Part="1" 
+F 0 "R5" V 2025 2750 50  0000 C CNN
+F 1 "150R" V 2025 3200 50  0000 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" H 2075 3000 50  0001 C CNN
+F 3 "~" H 2075 3000 50  0001 C CNN
+F 4 "0.001" H 2075 3000 50  0001 C CNN "Cost @ 100pcs"
+F 5 "0.001" H 2075 3000 50  0001 C CNN "Cost @10pcs"
+F 6 "RES 150 OHM 1% 1/16W 0402" H 2075 3000 50  0001 C CNN "Description"
+F 7 "C138054" H 2075 3000 50  0001 C CNN "LCSC#"
+F 8 "RC0402FR-07150RL" H 2075 3000 50  0001 C CNN "MPN"
+F 9 "RC0402FR-07150RL" H 2075 3000 50  0001 C CNN "MPN if populated"
+F 10 "Yageo" H 2075 3000 50  0001 C CNN "Manufacturer "
+F 11 "-55°C ~ 155°C" H 2075 3000 50  0001 C CNN "Operating Temperature"
+F 12 "0402" H 2075 3000 50  0001 C CNN "Package"
+F 13 "LCSC" H 2075 3000 50  0001 C CNN "Supplier 1"
+F 14 "1%" H 2075 3000 50  0001 C CNN "Tolerance"
+	1    2075 3000
+	0    -1   1    0   
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 6476C226
+P 2075 14325
+AR Path="/5BC3BC6B/6476C226" Ref="R?"  Part="1" 
+AR Path="/5BD07EAB/6476C226" Ref="R?"  Part="1" 
+AR Path="/5BC3335F/6476C226" Ref="R?"  Part="1" 
+AR Path="/6476C226" Ref="R8"  Part="1" 
+AR Path="/60B9875C/6476C226" Ref="R?"  Part="1" 
+AR Path="/61C28A9F/6476C226" Ref="R?"  Part="1" 
+AR Path="/62568438/6476C226" Ref="R?"  Part="1" 
+AR Path="/644A2771/6476C226" Ref="R?"  Part="1" 
+F 0 "R8" H 2016 14462 50  0000 R CNN
+F 1 "56K" H 2016 14371 50  0000 R CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" H 2075 14325 50  0001 C CNN
+F 3 "" H 2075 14325 50  0001 C CNN
+F 4 "RC0402FR-0756KL" V 2075 14325 50  0001 C CNN "MPN"
+F 5 "C114756" H 2075 14325 50  0001 C CNN "LCSC#"
+F 6 "1%" H 2016 14280 50  0000 R CNN "Tolerance"
+F 7 "RC0402FR-0756KL" H 2075 14325 50  0001 C CNN "MPN if populated"
+F 8 "0.0006" H 2075 14325 50  0001 C CNN "Cost @ 100pcs"
+F 9 "Yageo" H 2075 14325 50  0001 C CNN "Manufacturer "
+F 10 "RES 56K OHM 1% 1/16W 0402" H 2075 14325 50  0001 C CNN "Description"
+F 11 "-55°C ~ 155°C" H 2075 14325 50  0001 C CNN "Operating Temperature"
+F 12 "0.0006" H 2075 14325 50  0001 C CNN "Cost @10pcs"
+F 13 "LCSC" H 2075 14325 50  0001 C CNN "Supplier 1"
+F 14 "0402" H 2016 14189 50  0000 R CNN "Package"
+	1    2075 14325
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 63AC5758
+P 1000 15825
+AR Path="/644A2771/63AC5758" Ref="H?"  Part="1" 
+AR Path="/63AC5758" Ref="H5"  Part="1" 
+F 0 "H5" H 950 15975 50  0000 L CNN
+F 1 "MountingHole" H 1100 15780 50  0001 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_ISO14580_Pad" H 1000 15825 50  0001 C CNN
+F 3 "~" H 1000 15825 50  0001 C CNN
+F 4 "DNI" H 1000 15825 50  0001 C CNN "MPN"
+	1    1000 15825
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 648DED2F
+P 1250 15500
+AR Path="/644A2771/648DED2F" Ref="H?"  Part="1" 
+AR Path="/648DED2F" Ref="H2"  Part="1" 
+F 0 "H2" H 1200 15650 50  0000 L CNN
+F 1 "MountingHole" H 1350 15455 50  0001 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_ISO14580_Pad" H 1250 15500 50  0001 C CNN
+F 3 "~" H 1250 15500 50  0001 C CNN
+F 4 "DNI" H 1250 15500 50  0001 C CNN "MPN"
+	1    1250 15500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 63AC575F
+P 1250 15825
+AR Path="/644A2771/63AC575F" Ref="H?"  Part="1" 
+AR Path="/63AC575F" Ref="H6"  Part="1" 
+F 0 "H6" H 1200 15975 50  0000 L CNN
+F 1 "MountingHole" H 1350 15780 50  0001 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_ISO14580_Pad" H 1250 15825 50  0001 C CNN
+F 3 "~" H 1250 15825 50  0001 C CNN
+F 4 "DNI" H 1250 15825 50  0001 C CNN "MPN"
+	1    1250 15825
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 63AC576D
+P 1500 15825
+AR Path="/644A2771/63AC576D" Ref="H?"  Part="1" 
+AR Path="/63AC576D" Ref="H8"  Part="1" 
+F 0 "H8" H 1450 15975 50  0000 L CNN
+F 1 "MountingHole" H 1600 15780 50  0001 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_ISO14580_Pad" H 1500 15825 50  0001 C CNN
+F 3 "~" H 1500 15825 50  0001 C CNN
+F 4 "DNI" H 1500 15825 50  0001 C CNN "MPN"
+	1    1500 15825
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H?
+U 1 1 648DED3D
+P 1750 15500
+AR Path="/644A2771/648DED3D" Ref="H?"  Part="1" 
+AR Path="/648DED3D" Ref="H4"  Part="1" 
+F 0 "H4" H 1700 15650 50  0000 L CNN
+F 1 "MountingHole" H 1850 15455 50  0001 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_ISO14580_Pad" H 1750 15500 50  0001 C CNN
+F 3 "~" H 1750 15500 50  0001 C CNN
+F 4 "DNI" H 1750 15500 50  0001 C CNN "MPN"
+	1    1750 15500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Jumper:SolderJumper_2_Open JP1
+U 1 1 63E1FC47
+P 2150 15825
+F 0 "JP1" H 2150 15938 50  0000 C CNN
+F 1 "SolderJumper_2_Open" H 2150 15939 50  0001 C CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" H 2150 15825 50  0001 C CNN
+F 3 "~" H 2150 15825 50  0001 C CNN
+	1    2150 15825
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 6476C233
+P 2075 13400
+AR Path="/60B9875C/6476C233" Ref="R?"  Part="1" 
+AR Path="/6476C233" Ref="R7"  Part="1" 
+AR Path="/61C28A9F/6476C233" Ref="R?"  Part="1" 
+AR Path="/62568438/6476C233" Ref="R?"  Part="1" 
+AR Path="/644A2771/6476C233" Ref="R?"  Part="1" 
+F 0 "R7" V 1975 13400 50  0000 C CNN
+F 1 "DNI" V 2075 13400 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 2005 13400 50  0001 C CNN
+F 3 "~" H 2075 13400 50  0001 C CNN
+F 4 "DNI" V 2075 13400 50  0001 C CNN "MPN"
+F 5 "RC0805FR-070RL" H 2075 13400 50  0001 C CNN "MPN if populated"
+F 6 "" H 2075 13400 50  0001 C CNN "Cost @ 100pcs"
+F 7 "" H 2075 13400 50  0001 C CNN "Manufacturer "
+F 8 "1%" H 2075 13400 50  0001 C CNN "Tolerance"
+F 9 "" H 2075 13400 50  0001 C CNN "Description"
+F 10 "" H 2075 13400 50  0001 C CNN "Operating Temperature"
+	1    2075 13400
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D_TVS D?
+U 1 1 6476C248
+P 1550 14075
+AR Path="/60B9875C/6476C248" Ref="D?"  Part="1" 
+AR Path="/6476C248" Ref="D12"  Part="1" 
+AR Path="/61C28A9F/6476C248" Ref="D?"  Part="1" 
+AR Path="/62568438/6476C248" Ref="D?"  Part="1" 
+AR Path="/644A2771/6476C248" Ref="D?"  Part="1" 
+F 0 "D12" V 1461 14155 50  0000 L CNN
+F 1 "SMAJ54CA" V 1550 14155 47  0000 L CNN
+F 2 "Diode_SMD:D_SMA" H 1550 13875 50  0001 C CNN
+F 3 "" H 1500 14075 50  0001 C CNN
+F 4 "SMAJ54CA-E3/61" V 1550 14075 50  0001 C CNN "MPN"
+F 5 "C173507" V 1550 14075 50  0001 C CNN "LCSC#"
+F 6 "SMAJ54CA-E3/61" H 1550 14075 50  0001 C CNN "MPN if populated"
+F 7 "Vishay Semiconductor Diodes Division" H 1550 14075 50  0001 C CNN "Manufacturer "
+F 8 "0.0469" H 1550 14075 50  0001 C CNN "Cost @ 100pcs"
+F 9 "TVS DIODE 54V 87.1V DO214AC" H 1550 14075 50  0001 C CNN "Description"
+F 10 "-55°C ~ 150°C" H 1550 14075 50  0001 C CNN "Operating Temperature"
+F 11 "0.0595" H 1550 14075 50  0001 C CNN "Cost @10pcs"
+F 12 "LCSC" H 1550 14075 50  0001 C CNN "Supplier 1"
+F 13 "SMA" V 1639 14155 50  0000 L CNN "Package"
+	1    1550 14075
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:D_Zener_ALT D?
+U 1 1 6476C215
+P 2575 13900
+AR Path="/60B9875C/6476C215" Ref="D?"  Part="1" 
+AR Path="/6476C215" Ref="D11"  Part="1" 
+AR Path="/61C28A9F/6476C215" Ref="D?"  Part="1" 
+AR Path="/62568438/6476C215" Ref="D?"  Part="1" 
+AR Path="/644A2771/6476C215" Ref="D?"  Part="1" 
+F 0 "D11" V 2529 13979 50  0000 L CNN
+F 1 "12V" V 2620 13979 50  0000 L CNN
+F 2 "Diode_SMD:D_SOD-323" H 2575 13900 50  0001 C CNN
+F 3 "~" H 2575 13900 50  0001 C CNN
+F 4 "MM3Z12VT1G" V 2575 13900 50  0001 C CNN "MPN"
+F 5 "MM3Z12VT1G" H 2575 13900 50  0001 C CNN "MPN if populated"
+F 6 "0.0471" H 2575 13900 50  0001 C CNN "Cost @ 100pcs"
+F 7 "ON Semiconductor" H 2575 13900 50  0001 C CNN "Manufacturer "
+F 8 "DIODE ZENER 12V 300MW SOD323" H 2575 13900 50  0001 C CNN "Description"
+F 9 "-65°C ~ 150°C" H 2575 13900 50  0001 C CNN "Operating Temperature"
+F 10 "0.0564" H 2575 13900 50  0001 C CNN "Cost @10pcs"
+F 11 "LCSC" H 2575 13900 50  0001 C CNN "Supplier 1"
+F 12 "C236177" H 2575 13900 50  0001 C CNN "LCSC#"
+F 13 "SOD323" H 2575 13900 50  0001 C CNN "Package"
+	1    2575 13900
+	0    -1   1    0   
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H?
+U 1 1 63AC5766
+P 1800 15825
+AR Path="/644A2771/63AC5766" Ref="H?"  Part="1" 
+AR Path="/63AC5766" Ref="H7"  Part="1" 
+F 0 "H7" V 1950 15825 50  0000 L CNN
+F 1 "MountingHole" H 1900 15780 50  0001 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_ISO14580_Pad" H 1800 15825 50  0001 C CNN
+F 3 "~" H 1800 15825 50  0001 C CNN
+F 4 "DNI" H 1800 15825 50  0001 C CNN "MPN"
+	1    1800 15825
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Kpk:Logo_CE SYM1
+U 1 1 63DDD002
+P 2150 15500
+F 0 "SYM1" H 2276 15546 50  0000 L CNN
+F 1 "Logo_CE" H 2276 15455 50  0000 L CNN
+F 2 "Kpk:CE-Logo_4.3x3.1mm_SilkScreen" H 2150 15325 50  0001 C CNN
+F 3 "~" H 2180 15300 50  0001 C CNN
+F 4 "DNI" H 2150 15500 50  0001 C CNN "MPN"
+	1    2150 15500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED D?
+U 1 1 63FB830A
+P 2150 12500
+AR Path="/5BC3BC6B/63FB830A" Ref="D?"  Part="1" 
+AR Path="/5BC3335F/63FB830A" Ref="D?"  Part="1" 
+AR Path="/5FEF0359/63FB830A" Ref="D?"  Part="1" 
+AR Path="/626D70DC/63FB830A" Ref="D?"  Part="1" 
+AR Path="/624AAE10/63FB830A" Ref="D?"  Part="1" 
+AR Path="/63B0641B/63FB830A" Ref="D?"  Part="1" 
+AR Path="/63FB830A" Ref="D19"  Part="1" 
+F 0 "D19" H 2143 12245 50  0000 C CNN
+F 1 "GREEN" H 2143 12336 50  0000 C CNN
+F 2 "LED_SMD:LED_0603_1608Metric" H 2150 12500 50  0001 C CNN
+F 3 "~" H 2150 12500 50  0001 C CNN
+F 4 "LTST-C191KGKT" H 2150 12500 50  0001 C CNN "MPN"
+F 5 "C125098" H 2150 12500 50  0001 C CNN "LCSC#"
+F 6 "0.0211" H 2150 12500 50  0001 C CNN "Cost @ 100pcs"
+F 7 "LTST-C191KGKT" H 2150 12500 50  0001 C CNN "MPN if populated"
+F 8 "Lite-On" H 2150 12500 50  0001 C CNN "Manufacturer "
+F 9 "" H 2150 12500 50  0001 C CNN "Voltage Rating"
+F 10 "SML-D12P8WT86C" H 2150 12500 50  0001 C CNN "Alt"
+F 11 "LED PURE GREEN 1608 SMD" H 2150 12500 50  0001 C CNN "Description"
+F 12 "-55 °C~ 85°C" H 2150 12500 50  0001 C CNN "Operating Temperature"
+F 13 "0.0211" H 2150 12500 50  0001 C CNN "Cost @10pcs"
+F 14 "LCSC" H 2150 12500 50  0001 C CNN "Supplier 1"
+	1    2150 12500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x04_Male J?
+U 1 1 6476C273
+P 1000 13850
+AR Path="/61C28A9F/6476C273" Ref="J?"  Part="1" 
+AR Path="/6476C273" Ref="J16"  Part="1" 
+AR Path="/62568438/6476C273" Ref="J?"  Part="1" 
+AR Path="/644A2771/6476C273" Ref="J?"  Part="1" 
+F 0 "J16" H 1050 14050 50  0000 C CNN
+F 1 "Conn-4P" H 1025 13575 50  0000 C CNN
+F 2 "Kpk:Molex_Pico-Clasp_501331-0407_1x04-1MP_P1.00mm_Vertical_PicoBlade_Alternate" H 1000 13850 50  0001 C CNN
+F 3 "~" H 1000 13850 50  0001 C CNN
+F 4 "0.2502" H 1000 13850 50  0001 C CNN "Cost @ 100pcs"
+F 5 "0.3077" H 1000 13850 50  0001 C CNN "Cost @10pcs"
+F 6 "CONN HEADER SMD 4POS 1MM" H 1000 13850 50  0001 C CNN "Description"
+F 7 "5013310407" H 1000 13850 50  0001 C CNN "MPN"
+F 8 "5013310407" H 1000 13850 50  0001 C CNN "MPN if populated"
+F 9 "Molex" H 1000 13850 50  0001 C CNN "Manufacturer "
+F 10 "LCSC" H 1000 13850 50  0001 C CNN "Supplier 1"
+F 11 "C505339" H 1000 13850 50  0001 C CNN "LCSC#"
+F 12 "-40°C ~ 85°C" H 1000 13850 50  0001 C CNN "Operating Temperature"
+	1    1000 13850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x04_Male J?
+U 1 1 63A2654A
+P 10000 9850
+AR Path="/61C28A9F/63A2654A" Ref="J?"  Part="1" 
+AR Path="/63A2654A" Ref="J1"  Part="1" 
+AR Path="/62568438/63A2654A" Ref="J?"  Part="1" 
+AR Path="/644A2771/63A2654A" Ref="J?"  Part="1" 
+F 0 "J1" H 10050 10050 50  0000 C CNN
+F 1 "Conn-4P" H 10025 9575 50  0000 C CNN
+F 2 "Kpk:Molex_Pico-Clasp_501331-0407_1x04-1MP_P1.00mm_Vertical_PicoBlade_Alternate" H 10000 9850 50  0001 C CNN
+F 3 "~" H 10000 9850 50  0001 C CNN
+F 4 "0.2502" H 10000 9850 50  0001 C CNN "Cost @ 100pcs"
+F 5 "0.3077" H 10000 9850 50  0001 C CNN "Cost @10pcs"
+F 6 "CONN HEADER SMD 4POS 1MM" H 10000 9850 50  0001 C CNN "Description"
+F 7 "5013310407" H 10000 9850 50  0001 C CNN "MPN"
+F 8 "5013310407" H 10000 9850 50  0001 C CNN "MPN if populated"
+F 9 "Molex" H 10000 9850 50  0001 C CNN "Manufacturer "
+F 10 "LCSC" H 10000 9850 50  0001 C CNN "Supplier 1"
+F 11 "C505339" H 10000 9850 50  0001 C CNN "LCSC#"
+F 12 "-40°C ~ 85°C" H 10000 9850 50  0001 C CNN "Operating Temperature"
+	1    10000 9850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x04_Male J?
+U 1 1 63A9D151
+P 10000 11000
+AR Path="/61C28A9F/63A9D151" Ref="J?"  Part="1" 
+AR Path="/63A9D151" Ref="J18"  Part="1" 
+AR Path="/62568438/63A9D151" Ref="J?"  Part="1" 
+AR Path="/644A2771/63A9D151" Ref="J?"  Part="1" 
+F 0 "J18" H 10050 11200 50  0000 C CNN
+F 1 "Conn-4P" H 10025 10725 50  0000 C CNN
+F 2 "Kpk:Molex_Pico-Clasp_501331-0407_1x04-1MP_P1.00mm_Vertical_PicoBlade_Alternate" H 10000 11000 50  0001 C CNN
+F 3 "~" H 10000 11000 50  0001 C CNN
+F 4 "0.2502" H 10000 11000 50  0001 C CNN "Cost @ 100pcs"
+F 5 "0.3077" H 10000 11000 50  0001 C CNN "Cost @10pcs"
+F 6 "CONN HEADER SMD 4POS 1MM" H 10000 11000 50  0001 C CNN "Description"
+F 7 "5013310407" H 10000 11000 50  0001 C CNN "MPN"
+F 8 "5013310407" H 10000 11000 50  0001 C CNN "MPN if populated"
+F 9 "Molex" H 10000 11000 50  0001 C CNN "Manufacturer "
+F 10 "LCSC" H 10000 11000 50  0001 C CNN "Supplier 1"
+F 11 "C505339" H 10000 11000 50  0001 C CNN "LCSC#"
+F 12 "-40°C ~ 85°C" H 10000 11000 50  0001 C CNN "Operating Temperature"
+	1    10000 11000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_Coaxial J?
+U 1 1 6466C6B9
+P 3850 4325
+AR Path="/644A2771/6466C6B9" Ref="J?"  Part="1" 
+AR Path="/6466C6B9" Ref="J3"  Part="1" 
+F 0 "J3" H 3950 4300 50  0000 L CNN
+F 1 "Conn_Coaxial" H 3950 4209 50  0000 L CNN
+F 2 "Connector_Coaxial:U.FL_Hirose_U.FL-R-SMT-1_Vertical" H 3850 4325 50  0001 C CNN
+F 3 " ~" H 3850 4325 50  0001 C CNN
+F 4 "0.1854" H 3850 4325 50  0001 C CNN "Cost @ 100pcs"
+F 5 "0.2335" H 3850 4325 50  0001 C CNN "Cost @10pcs"
+F 6 "CONN UMC RCPT STR 50 OHM SMD" H 3850 4325 50  0001 C CNN "Description"
+F 7 "1909763-1" H 3850 4325 50  0001 C CNN "MPN"
+F 8 "1909763-1" H 3850 4325 50  0001 C CNN "MPN if populated"
+F 9 "TE Connectivity AMP Connectors" H 3850 4325 50  0001 C CNN "Manufacturer "
+F 10 "-40°C ~ 90°C" H 3850 4325 50  0001 C CNN "Operating Temperature"
+F 11 "LCSC" H 3850 4325 50  0001 C CNN "Supplier 1"
+F 12 "C392444" H 3850 4325 50  0001 C CNN "LCSC#"
+	1    3850 4325
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x08_Male J4
+U 1 1 644B0E56
+P 7700 4400
+F 0 "J4" H 7672 4282 50  0000 R CNN
+F 1 "Conn-8P" H 7672 4373 50  0000 R CNN
+F 2 "Kpk:Molex_Pico-Clasp_501331-0807_1x08-1MP_P1.00mm_Vertical_PicoBlade_Alternate" H 7700 4400 50  0001 C CNN
+F 3 "~" H 7700 4400 50  0001 C CNN
+F 4 "0.60600" H 7700 4400 50  0001 C CNN "Cost @ 100pcs"
+F 5 "0.72700" H 7700 4400 50  0001 C CNN "Cost @10pcs"
+F 6 "CONN HEADER SMD 8POS 1MM" H 7700 4400 50  0001 C CNN "Description"
+F 7 "C505340" H 7700 4400 50  0001 C CNN "LCSC#"
+F 8 "5013310807" H 7700 4400 50  0001 C CNN "MPN"
+F 9 "5013310807" H 7700 4400 50  0001 C CNN "MPN if populated"
+F 10 "Molex" H 7700 4400 50  0001 C CNN "Manufacturer "
+F 11 "Digi-Key" H 7700 4400 50  0001 C CNN "Supplier 1"
+F 12 "-40°C ~ 85°C" H 7700 4400 50  0001 C CNN "Operating Temperature"
+	1    7700 4400
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x08_Male J5
+U 1 1 644B0E2B
+P 7700 5300
+F 0 "J5" H 7672 5182 50  0000 R CNN
+F 1 "Conn-8P" H 7672 5273 50  0000 R CNN
+F 2 "Kpk:Molex_Pico-Clasp_501331-0807_1x08-1MP_P1.00mm_Vertical_PicoBlade_Alternate" H 7700 5300 50  0001 C CNN
+F 3 "~" H 7700 5300 50  0001 C CNN
+F 4 "0.60600" H 7700 5300 50  0001 C CNN "Cost @ 100pcs"
+F 5 "0.72700" H 7700 5300 50  0001 C CNN "Cost @10pcs"
+F 6 "CONN HEADER SMD 8POS 1MM" H 7700 5300 50  0001 C CNN "Description"
+F 7 "C505340" H 7700 5300 50  0001 C CNN "LCSC#"
+F 8 "5013310807" H 7700 5300 50  0001 C CNN "MPN"
+F 9 "5013310807" H 7700 5300 50  0001 C CNN "MPN if populated"
+F 10 "Molex" H 7700 5300 50  0001 C CNN "Manufacturer "
+F 11 "Digi-Key" H 7700 5300 50  0001 C CNN "Supplier 1"
+F 12 "-40°C ~ 85°C" H 7700 5300 50  0001 C CNN "Operating Temperature"
+	1    7700 5300
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x08_Male J8
+U 1 1 644B0E39
+P 7700 6200
+F 0 "J8" H 7672 6082 50  0000 R CNN
+F 1 "Conn-8P" H 7672 6173 50  0000 R CNN
+F 2 "Kpk:Molex_Pico-Clasp_501331-0807_1x08-1MP_P1.00mm_Vertical_PicoBlade_Alternate" H 7700 6200 50  0001 C CNN
+F 3 "~" H 7700 6200 50  0001 C CNN
+F 4 "0.60600" H 7700 6200 50  0001 C CNN "Cost @ 100pcs"
+F 5 "0.72700" H 7700 6200 50  0001 C CNN "Cost @10pcs"
+F 6 "CONN HEADER SMD 8POS 1MM" H 7700 6200 50  0001 C CNN "Description"
+F 7 "C505340" H 7700 6200 50  0001 C CNN "LCSC#"
+F 8 "5013310807" H 7700 6200 50  0001 C CNN "MPN"
+F 9 "5013310807" H 7700 6200 50  0001 C CNN "MPN if populated"
+F 10 "Molex" H 7700 6200 50  0001 C CNN "Manufacturer "
+F 11 "Digi-Key" H 7700 6200 50  0001 C CNN "Supplier 1"
+F 12 "-40°C ~ 85°C" H 7700 6200 50  0001 C CNN "Operating Temperature"
+	1    7700 6200
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x08_Male J9
+U 1 1 644B0E47
+P 7700 7100
+F 0 "J9" H 7672 6982 50  0000 R CNN
+F 1 "Conn-8P" H 7672 7073 50  0000 R CNN
+F 2 "Kpk:Molex_Pico-Clasp_501331-0807_1x08-1MP_P1.00mm_Vertical_PicoBlade_Alternate" H 7700 7100 50  0001 C CNN
+F 3 "~" H 7700 7100 50  0001 C CNN
+F 4 "0.60600" H 7700 7100 50  0001 C CNN "Cost @ 100pcs"
+F 5 "0.72700" H 7700 7100 50  0001 C CNN "Cost @10pcs"
+F 6 "CONN HEADER SMD 8POS 1MM" H 7700 7100 50  0001 C CNN "Description"
+F 7 "C505340" H 7700 7100 50  0001 C CNN "LCSC#"
+F 8 "5013310807" H 7700 7100 50  0001 C CNN "MPN"
+F 9 "5013310807" H 7700 7100 50  0001 C CNN "MPN if populated"
+F 10 "Molex" H 7700 7100 50  0001 C CNN "Manufacturer "
+F 11 "Digi-Key" H 7700 7100 50  0001 C CNN "Supplier 1"
+F 12 "-40°C ~ 85°C" H 7700 7100 50  0001 C CNN "Operating Temperature"
+	1    7700 7100
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x08_Male J11
+U 1 1 64501528
+P 7700 8800
+F 0 "J11" H 7672 8682 50  0000 R CNN
+F 1 "Conn-8P" H 7672 8773 50  0000 R CNN
+F 2 "Kpk:Molex_Pico-Clasp_501331-0807_1x08-1MP_P1.00mm_Vertical_PicoBlade_Alternate" H 7700 8800 50  0001 C CNN
+F 3 "~" H 7700 8800 50  0001 C CNN
+F 4 "0.60600" H 7700 8800 50  0001 C CNN "Cost @ 100pcs"
+F 5 "0.72700" H 7700 8800 50  0001 C CNN "Cost @10pcs"
+F 6 "CONN HEADER SMD 8POS 1MM" H 7700 8800 50  0001 C CNN "Description"
+F 7 "C505340" H 7700 8800 50  0001 C CNN "LCSC#"
+F 8 "5013310807" H 7700 8800 50  0001 C CNN "MPN"
+F 9 "5013310807" H 7700 8800 50  0001 C CNN "MPN if populated"
+F 10 "Molex" H 7700 8800 50  0001 C CNN "Manufacturer "
+F 11 "Digi-Key" H 7700 8800 50  0001 C CNN "Supplier 1"
+F 12 "-40°C ~ 85°C" H 7700 8800 50  0001 C CNN "Operating Temperature"
+	1    7700 8800
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x08_Male J12
+U 1 1 645014FD
+P 7700 9700
+F 0 "J12" H 7672 9582 50  0000 R CNN
+F 1 "Conn-8P" H 7672 9673 50  0000 R CNN
+F 2 "Kpk:Molex_Pico-Clasp_501331-0807_1x08-1MP_P1.00mm_Vertical_PicoBlade_Alternate" H 7700 9700 50  0001 C CNN
+F 3 "~" H 7700 9700 50  0001 C CNN
+F 4 "0.60600" H 7700 9700 50  0001 C CNN "Cost @ 100pcs"
+F 5 "0.72700" H 7700 9700 50  0001 C CNN "Cost @10pcs"
+F 6 "CONN HEADER SMD 8POS 1MM" H 7700 9700 50  0001 C CNN "Description"
+F 7 "C505340" H 7700 9700 50  0001 C CNN "LCSC#"
+F 8 "5013310807" H 7700 9700 50  0001 C CNN "MPN"
+F 9 "5013310807" H 7700 9700 50  0001 C CNN "MPN if populated"
+F 10 "Molex" H 7700 9700 50  0001 C CNN "Manufacturer "
+F 11 "Digi-Key" H 7700 9700 50  0001 C CNN "Supplier 1"
+F 12 "-40°C ~ 85°C" H 7700 9700 50  0001 C CNN "Operating Temperature"
+	1    7700 9700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x08_Male J14
+U 1 1 6450150B
+P 7700 10600
+F 0 "J14" H 7672 10482 50  0000 R CNN
+F 1 "Conn-8P" H 7672 10573 50  0000 R CNN
+F 2 "Kpk:Molex_Pico-Clasp_501331-0807_1x08-1MP_P1.00mm_Vertical_PicoBlade_Alternate" H 7700 10600 50  0001 C CNN
+F 3 "~" H 7700 10600 50  0001 C CNN
+F 4 "0.60600" H 7700 10600 50  0001 C CNN "Cost @ 100pcs"
+F 5 "0.72700" H 7700 10600 50  0001 C CNN "Cost @10pcs"
+F 6 "CONN HEADER SMD 8POS 1MM" H 7700 10600 50  0001 C CNN "Description"
+F 7 "C505340" H 7700 10600 50  0001 C CNN "LCSC#"
+F 8 "5013310807" H 7700 10600 50  0001 C CNN "MPN"
+F 9 "5013310807" H 7700 10600 50  0001 C CNN "MPN if populated"
+F 10 "Molex" H 7700 10600 50  0001 C CNN "Manufacturer "
+F 11 "Digi-Key" H 7700 10600 50  0001 C CNN "Supplier 1"
+F 12 "-40°C ~ 85°C" H 7700 10600 50  0001 C CNN "Operating Temperature"
+	1    7700 10600
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x08_Male J15
+U 1 1 64501519
+P 7700 11500
+F 0 "J15" H 7672 11382 50  0000 R CNN
+F 1 "Conn-8P" H 7672 11473 50  0000 R CNN
+F 2 "Kpk:Molex_Pico-Clasp_501331-0807_1x08-1MP_P1.00mm_Vertical_PicoBlade_Alternate" H 7700 11500 50  0001 C CNN
+F 3 "~" H 7700 11500 50  0001 C CNN
+F 4 "0.60600" H 7700 11500 50  0001 C CNN "Cost @ 100pcs"
+F 5 "0.72700" H 7700 11500 50  0001 C CNN "Cost @10pcs"
+F 6 "CONN HEADER SMD 8POS 1MM" H 7700 11500 50  0001 C CNN "Description"
+F 7 "C505340" H 7700 11500 50  0001 C CNN "LCSC#"
+F 8 "5013310807" H 7700 11500 50  0001 C CNN "MPN"
+F 9 "5013310807" H 7700 11500 50  0001 C CNN "MPN if populated"
+F 10 "Molex" H 7700 11500 50  0001 C CNN "Manufacturer "
+F 11 "Digi-Key" H 7700 11500 50  0001 C CNN "Supplier 1"
+F 12 "-40°C ~ 85°C" H 7700 11500 50  0001 C CNN "Operating Temperature"
+	1    7700 11500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:Q_PMOS_GDS Q?
+U 1 1 6476C28F
+P 2075 13850
+AR Path="/644A2771/6476C28F" Ref="Q?"  Part="1" 
+AR Path="/6476C28F" Ref="Q1"  Part="1" 
+F 0 "Q1" V 2417 13850 50  0000 C CNN
+F 1 "RD3P130SPTL1" V 2326 13850 50  0000 C CNN
+F 2 "Kpk:RD3P130SPTL1" H 2275 13950 50  0001 C CNN
+F 3 "~" H 2075 13850 50  0001 C CNN
+F 4 "IRFR6215TRPBF" H 2075 13850 50  0001 C CNN "Alt"
+F 5 "1.0243" H 2075 13850 50  0001 C CNN "Cost @ 100pcs"
+F 6 "1.4535" H 2075 13850 50  0001 C CNN "Cost @10pcs"
+F 7 "MOSFET P-CH 100V 13A TO252" H 2075 13850 50  0001 C CNN "Description"
+F 8 "C509778" H 2075 13850 50  0001 C CNN "LCSC#"
+F 9 "RD3P130SPTL1" H 2075 13850 50  0001 C CNN "MPN"
+F 10 "RD3P130SPTL1" H 2075 13850 50  0001 C CNN "MPN if populated"
+F 11 "Rohm Semiconductor" H 2075 13850 50  0001 C CNN "Manufacturer "
+F 12 "-55 to +150 " H 2075 13850 50  0001 C CNN "Operating Temperature"
+F 13 "TO-252" H 2075 13850 50  0001 C CNN "Package"
+F 14 "LCSC" H 2075 13850 50  0001 C CNN "Supplier 1"
+	1    2075 13850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x09_Male J?
+U 1 1 63F38272
+P 10050 8650
+AR Path="/61C28A9F/63F38272" Ref="J?"  Part="1" 
+AR Path="/63F38272" Ref="J17"  Part="1" 
+AR Path="/62568438/63F38272" Ref="J?"  Part="1" 
+AR Path="/644A2771/63F38272" Ref="J?"  Part="1" 
+F 0 "J17" H 10158 9231 50  0000 C CNN
+F 1 "Conn-9P" H 10158 9140 50  0000 C CNN
+F 2 "Kpk:Molex_Pico-Clasp_501331-0907_1x09-1MP_P1.00mm_Vertical_PicoBlade_Alternate" H 10050 8650 50  0001 C CNN
+F 3 "~" H 10050 8650 50  0001 C CNN
+F 4 "0.2261" H 10050 8650 50  0001 C CNN "Cost @ 100pcs"
+F 5 "0.2843" H 10050 8650 50  0001 C CNN "Cost @10pcs"
+F 6 "CONN HEADER SMD 9POS 1MM" H 10050 8650 50  0001 C CNN "Description"
+F 7 "5013310907" H 10050 8650 50  0001 C CNN "MPN"
+F 8 "5013310907" H 10050 8650 50  0001 C CNN "MPN if populated"
+F 9 "Molex" H 10050 8650 50  0001 C CNN "Manufacturer "
+F 10 "LCSC" H 10050 8650 50  0001 C CNN "Supplier 1"
+F 11 "C114116" H 10050 8650 50  0001 C CNN "LCSC#"
+F 12 "-40°C ~ 85°C" H 10050 8650 50  0001 C CNN "Operating Temperature"
+	1    10050 8650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED_Dual_ACAC D?
+U 1 1 64606CD3
+P 3600 2000
+AR Path="/634D181C/64606CD3" Ref="D?"  Part="1" 
+AR Path="/64606CD3" Ref="D5"  Part="1" 
+AR Path="/644A2771/64606CD3" Ref="D?"  Part="1" 
+F 0 "D5" V 3950 2150 50  0000 L CNN
+F 1 "LED_Dual_ACAC" V 3645 2288 50  0001 L CNN
+F 2 "Kpk:LED_1608_ACAC" H 3630 2000 50  0001 C CNN
+F 3 "~" H 3630 2000 50  0001 C CNN
+F 4 "0.0383" H 3600 2000 50  0001 C CNN "Cost @ 100pcs"
+F 5 "0.0462" H 3600 2000 50  0001 C CNN "Cost @10pcs"
+F 6 "LED GREEN/RED CLEAR CHIP SMD" H 3600 2000 50  0001 C CNN "Description"
+F 7 "LTST-C295KGKRKT" H 3600 2000 50  0001 C CNN "MPN"
+F 8 "LTST-C295KGKRKT" H 3600 2000 50  0001 C CNN "MPN if populated"
+F 9 "Lite-On Inc." H 3600 2000 50  0001 C CNN "Manufacturer "
+F 10 "-30°C ~ 85°C" H 3600 2000 50  0001 C CNN "Operating Temperature"
+F 11 "0603" H 3600 2000 50  0001 C CNN "Package"
+F 12 "LCSC" H 3600 2000 50  0001 C CNN "Supplier 1"
+F 13 "SML-D22MUWT86, B2972USUG20D000914U1930" H 3600 2000 50  0001 C CNN "Alt"
+F 14 "C364568" H 3600 2000 50  0001 C CNN "LCSC#"
+	1    3600 2000
+	0    -1   1    0   
+$EndComp
+$Comp
+L Device:LED_Dual_ACAC D?
+U 1 1 64606CC4
+P 4300 2000
+AR Path="/634D181C/64606CC4" Ref="D?"  Part="1" 
+AR Path="/64606CC4" Ref="D6"  Part="1" 
+AR Path="/644A2771/64606CC4" Ref="D?"  Part="1" 
+F 0 "D6" V 4650 2150 50  0000 L CNN
+F 1 "LED_Dual_ACAC" V 4345 2288 50  0001 L CNN
+F 2 "Kpk:LED_1608_ACAC" H 4330 2000 50  0001 C CNN
+F 3 "~" H 4330 2000 50  0001 C CNN
+F 4 "0.0383" H 4300 2000 50  0001 C CNN "Cost @ 100pcs"
+F 5 "0.0462" H 4300 2000 50  0001 C CNN "Cost @10pcs"
+F 6 "LED GREEN/RED CLEAR CHIP SMD" H 4300 2000 50  0001 C CNN "Description"
+F 7 "LTST-C295KGKRKT" H 4300 2000 50  0001 C CNN "MPN"
+F 8 "LTST-C295KGKRKT" H 4300 2000 50  0001 C CNN "MPN if populated"
+F 9 "Lite-On Inc." H 4300 2000 50  0001 C CNN "Manufacturer "
+F 10 "-30°C ~ 85°C" H 4300 2000 50  0001 C CNN "Operating Temperature"
+F 11 "0603" H 4300 2000 50  0001 C CNN "Package"
+F 12 "LCSC" H 4300 2000 50  0001 C CNN "Supplier 1"
+F 13 "SML-D22MUWT86, B2972USUG20D000914U1930" H 4300 2000 50  0001 C CNN "Alt"
+F 14 "C364568" H 4300 2000 50  0001 C CNN "LCSC#"
+	1    4300 2000
+	0    -1   1    0   
+$EndComp
+$Comp
+L Device:LED_Dual_ACAC D?
+U 1 1 64606CB5
+P 4950 2000
+AR Path="/634D181C/64606CB5" Ref="D?"  Part="1" 
+AR Path="/64606CB5" Ref="D7"  Part="1" 
+AR Path="/644A2771/64606CB5" Ref="D?"  Part="1" 
+F 0 "D7" V 5300 2150 50  0000 L CNN
+F 1 "LED_Dual_ACAC" V 4995 2288 50  0001 L CNN
+F 2 "Kpk:LED_1608_ACAC" H 4980 2000 50  0001 C CNN
+F 3 "~" H 4980 2000 50  0001 C CNN
+F 4 "0.0383" H 4950 2000 50  0001 C CNN "Cost @ 100pcs"
+F 5 "0.0462" H 4950 2000 50  0001 C CNN "Cost @10pcs"
+F 6 "LED GREEN/RED CLEAR CHIP SMD" H 4950 2000 50  0001 C CNN "Description"
+F 7 "LTST-C295KGKRKT" H 4950 2000 50  0001 C CNN "MPN"
+F 8 "LTST-C295KGKRKT" H 4950 2000 50  0001 C CNN "MPN if populated"
+F 9 "Lite-On Inc." H 4950 2000 50  0001 C CNN "Manufacturer "
+F 10 "-30°C ~ 85°C" H 4950 2000 50  0001 C CNN "Operating Temperature"
+F 11 "0603" H 4950 2000 50  0001 C CNN "Package"
+F 12 "LCSC" H 4950 2000 50  0001 C CNN "Supplier 1"
+F 13 "SML-D22MUWT86, B2972USUG20D000914U1930" H 4950 2000 50  0001 C CNN "Alt"
+F 14 "C364568" H 4950 2000 50  0001 C CNN "LCSC#"
+	1    4950 2000
+	0    -1   1    0   
+$EndComp
+$Comp
+L Device:LED_Dual_ACAC D?
+U 1 1 64606CA6
+P 5600 2000
+AR Path="/634D181C/64606CA6" Ref="D?"  Part="1" 
+AR Path="/64606CA6" Ref="D8"  Part="1" 
+AR Path="/644A2771/64606CA6" Ref="D?"  Part="1" 
+F 0 "D8" V 5950 2150 50  0000 L CNN
+F 1 "LED_Dual_ACAC" V 5645 2288 50  0001 L CNN
+F 2 "Kpk:LED_1608_ACAC" H 5630 2000 50  0001 C CNN
+F 3 "~" H 5630 2000 50  0001 C CNN
+F 4 "0.0383" H 5600 2000 50  0001 C CNN "Cost @ 100pcs"
+F 5 "0.0462" H 5600 2000 50  0001 C CNN "Cost @10pcs"
+F 6 "LED GREEN/RED CLEAR CHIP SMD" H 5600 2000 50  0001 C CNN "Description"
+F 7 "LTST-C295KGKRKT" H 5600 2000 50  0001 C CNN "MPN"
+F 8 "LTST-C295KGKRKT" H 5600 2000 50  0001 C CNN "MPN if populated"
+F 9 "Lite-On Inc." H 5600 2000 50  0001 C CNN "Manufacturer "
+F 10 "-30°C ~ 85°C" H 5600 2000 50  0001 C CNN "Operating Temperature"
+F 11 "0603" H 5600 2000 50  0001 C CNN "Package"
+F 12 "LCSC" H 5600 2000 50  0001 C CNN "Supplier 1"
+F 13 "SML-D22MUWT86, B2972USUG20D000914U1930" H 5600 2000 50  0001 C CNN "Alt"
+F 14 "C364568" H 5600 2000 50  0001 C CNN "LCSC#"
+	1    5600 2000
+	0    -1   1    0   
+$EndComp
+$Comp
+L Device:LED_Dual_ACAC D?
+U 1 1 64606D1B
+P 6250 2000
+AR Path="/634D181C/64606D1B" Ref="D?"  Part="1" 
+AR Path="/64606D1B" Ref="D9"  Part="1" 
+AR Path="/644A2771/64606D1B" Ref="D?"  Part="1" 
+F 0 "D9" V 6600 2150 50  0000 L CNN
+F 1 "LED_Dual_ACAC" V 6295 2288 50  0001 L CNN
+F 2 "Kpk:LED_1608_ACAC" H 6280 2000 50  0001 C CNN
+F 3 "~" H 6280 2000 50  0001 C CNN
+F 4 "0.0383" H 6250 2000 50  0001 C CNN "Cost @ 100pcs"
+F 5 "0.0462" H 6250 2000 50  0001 C CNN "Cost @10pcs"
+F 6 "LED GREEN/RED CLEAR CHIP SMD" H 6250 2000 50  0001 C CNN "Description"
+F 7 "LTST-C295KGKRKT" H 6250 2000 50  0001 C CNN "MPN"
+F 8 "LTST-C295KGKRKT" H 6250 2000 50  0001 C CNN "MPN if populated"
+F 9 "Lite-On Inc." H 6250 2000 50  0001 C CNN "Manufacturer "
+F 10 "-30°C ~ 85°C" H 6250 2000 50  0001 C CNN "Operating Temperature"
+F 11 "0603" H 6250 2000 50  0001 C CNN "Package"
+F 12 "LCSC" H 6250 2000 50  0001 C CNN "Supplier 1"
+F 13 "SML-D22MUWT86, B2972USUG20D000914U1930" H 6250 2000 50  0001 C CNN "Alt"
+F 14 "C364568" H 6250 2000 50  0001 C CNN "LCSC#"
+	1    6250 2000
+	0    -1   1    0   
+$EndComp
+$Comp
+L Device:LED_Dual_ACAC D?
+U 1 1 64606D0C
+P 6900 2000
+AR Path="/634D181C/64606D0C" Ref="D?"  Part="1" 
+AR Path="/64606D0C" Ref="D10"  Part="1" 
+AR Path="/644A2771/64606D0C" Ref="D?"  Part="1" 
+F 0 "D10" V 7250 2150 50  0000 L CNN
+F 1 "LED_Dual_ACAC" V 6945 2288 50  0001 L CNN
+F 2 "Kpk:LED_1608_ACAC" H 6930 2000 50  0001 C CNN
+F 3 "~" H 6930 2000 50  0001 C CNN
+F 4 "0.0383" H 6900 2000 50  0001 C CNN "Cost @ 100pcs"
+F 5 "0.0462" H 6900 2000 50  0001 C CNN "Cost @10pcs"
+F 6 "LED GREEN/RED CLEAR CHIP SMD" H 6900 2000 50  0001 C CNN "Description"
+F 7 "LTST-C295KGKRKT" H 6900 2000 50  0001 C CNN "MPN"
+F 8 "LTST-C295KGKRKT" H 6900 2000 50  0001 C CNN "MPN if populated"
+F 9 "Lite-On Inc." H 6900 2000 50  0001 C CNN "Manufacturer "
+F 10 "-30°C ~ 85°C" H 6900 2000 50  0001 C CNN "Operating Temperature"
+F 11 "0603" H 6900 2000 50  0001 C CNN "Package"
+F 12 "LCSC" H 6900 2000 50  0001 C CNN "Supplier 1"
+F 13 "SML-D22MUWT86, B2972USUG20D000914U1930" H 6900 2000 50  0001 C CNN "Alt"
+F 14 "C364568" H 6900 2000 50  0001 C CNN "LCSC#"
+	1    6900 2000
+	0    -1   1    0   
+$EndComp
+$Comp
+L Device:LED_Dual_ACAC D?
+U 1 1 6541BD3E
+P 7650 1975
+AR Path="/634D181C/6541BD3E" Ref="D?"  Part="1" 
+AR Path="/6541BD3E" Ref="D1"  Part="1" 
+AR Path="/644A2771/6541BD3E" Ref="D?"  Part="1" 
+F 0 "D1" V 8000 2125 50  0000 L CNN
+F 1 "LED_Dual_ACAC" V 7695 2263 50  0001 L CNN
+F 2 "Kpk:LED_1608_ACAC" H 7680 1975 50  0001 C CNN
+F 3 "~" H 7680 1975 50  0001 C CNN
+F 4 "0.0383" H 7650 1975 50  0001 C CNN "Cost @ 100pcs"
+F 5 "0.0462" H 7650 1975 50  0001 C CNN "Cost @10pcs"
+F 6 "LED GREEN/RED CLEAR CHIP SMD" H 7650 1975 50  0001 C CNN "Description"
+F 7 "LTST-C295KGKRKT" H 7650 1975 50  0001 C CNN "MPN"
+F 8 "LTST-C295KGKRKT" H 7650 1975 50  0001 C CNN "MPN if populated"
+F 9 "Lite-On Inc." H 7650 1975 50  0001 C CNN "Manufacturer "
+F 10 "-30°C ~ 85°C" H 7650 1975 50  0001 C CNN "Operating Temperature"
+F 11 "0603" H 7650 1975 50  0001 C CNN "Package"
+F 12 "LCSC" H 7650 1975 50  0001 C CNN "Supplier 1"
+F 13 "SML-D22MUWT86, B2972USUG20D000914U1930" H 7650 1975 50  0001 C CNN "Alt"
+F 14 "C364568" H 7650 1975 50  0001 C CNN "LCSC#"
+	1    7650 1975
+	0    -1   1    0   
+$EndComp
+$Comp
+L Device:LED_Dual_ACAC D?
+U 1 1 654509A5
+P 8400 1975
+AR Path="/634D181C/654509A5" Ref="D?"  Part="1" 
+AR Path="/654509A5" Ref="D2"  Part="1" 
+AR Path="/644A2771/654509A5" Ref="D?"  Part="1" 
+F 0 "D2" V 8750 2125 50  0000 L CNN
+F 1 "LED_Dual_ACAC" V 8445 2263 50  0001 L CNN
+F 2 "Kpk:LED_1608_ACAC" H 8430 1975 50  0001 C CNN
+F 3 "~" H 8430 1975 50  0001 C CNN
+F 4 "0.0383" H 8400 1975 50  0001 C CNN "Cost @ 100pcs"
+F 5 "0.0462" H 8400 1975 50  0001 C CNN "Cost @10pcs"
+F 6 "LED GREEN/RED CLEAR CHIP SMD" H 8400 1975 50  0001 C CNN "Description"
+F 7 "LTST-C295KGKRKT" H 8400 1975 50  0001 C CNN "MPN"
+F 8 "LTST-C295KGKRKT" H 8400 1975 50  0001 C CNN "MPN if populated"
+F 9 "Lite-On Inc." H 8400 1975 50  0001 C CNN "Manufacturer "
+F 10 "-30°C ~ 85°C" H 8400 1975 50  0001 C CNN "Operating Temperature"
+F 11 "0603" H 8400 1975 50  0001 C CNN "Package"
+F 12 "LCSC" H 8400 1975 50  0001 C CNN "Supplier 1"
+F 13 "SML-D22MUWT86, B2972USUG20D000914U1930" H 8400 1975 50  0001 C CNN "Alt"
+F 14 "C364568" H 8400 1975 50  0001 C CNN "LCSC#"
+	1    8400 1975
+	0    -1   1    0   
+$EndComp
+$Comp
+L Device:LED_Dual_ACAC D?
+U 1 1 65485434
+P 9150 1975
+AR Path="/634D181C/65485434" Ref="D?"  Part="1" 
+AR Path="/65485434" Ref="D3"  Part="1" 
+AR Path="/644A2771/65485434" Ref="D?"  Part="1" 
+F 0 "D3" V 9500 2125 50  0000 L CNN
+F 1 "LED_Dual_ACAC" V 9195 2263 50  0001 L CNN
+F 2 "Kpk:LED_1608_ACAC" H 9180 1975 50  0001 C CNN
+F 3 "~" H 9180 1975 50  0001 C CNN
+F 4 "0.0383" H 9150 1975 50  0001 C CNN "Cost @ 100pcs"
+F 5 "0.0462" H 9150 1975 50  0001 C CNN "Cost @10pcs"
+F 6 "LED GREEN/RED CLEAR CHIP SMD" H 9150 1975 50  0001 C CNN "Description"
+F 7 "LTST-C295KGKRKT" H 9150 1975 50  0001 C CNN "MPN"
+F 8 "LTST-C295KGKRKT" H 9150 1975 50  0001 C CNN "MPN if populated"
+F 9 "Lite-On Inc." H 9150 1975 50  0001 C CNN "Manufacturer "
+F 10 "-30°C ~ 85°C" H 9150 1975 50  0001 C CNN "Operating Temperature"
+F 11 "0603" H 9150 1975 50  0001 C CNN "Package"
+F 12 "LCSC" H 9150 1975 50  0001 C CNN "Supplier 1"
+F 13 "SML-D22MUWT86, B2972USUG20D000914U1930" H 9150 1975 50  0001 C CNN "Alt"
+F 14 "C364568" H 9150 1975 50  0001 C CNN "LCSC#"
+	1    9150 1975
+	0    -1   1    0   
+$EndComp
+$Comp
+L Device:LED_Dual_ACAC D?
+U 1 1 65A1FD57
+P 9900 1975
+AR Path="/634D181C/65A1FD57" Ref="D?"  Part="1" 
+AR Path="/65A1FD57" Ref="D4"  Part="1" 
+AR Path="/644A2771/65A1FD57" Ref="D?"  Part="1" 
+F 0 "D4" V 10250 2125 50  0000 L CNN
+F 1 "LED_Dual_ACAC" V 9945 2263 50  0001 L CNN
+F 2 "Kpk:LED_1608_ACAC" H 9930 1975 50  0001 C CNN
+F 3 "~" H 9930 1975 50  0001 C CNN
+F 4 "0.0383" H 9900 1975 50  0001 C CNN "Cost @ 100pcs"
+F 5 "0.0462" H 9900 1975 50  0001 C CNN "Cost @10pcs"
+F 6 "LED GREEN/RED CLEAR CHIP SMD" H 9900 1975 50  0001 C CNN "Description"
+F 7 "LTST-C295KGKRKT" H 9900 1975 50  0001 C CNN "MPN"
+F 8 "LTST-C295KGKRKT" H 9900 1975 50  0001 C CNN "MPN if populated"
+F 9 "Lite-On Inc." H 9900 1975 50  0001 C CNN "Manufacturer "
+F 10 "-30°C ~ 85°C" H 9900 1975 50  0001 C CNN "Operating Temperature"
+F 11 "0603" H 9900 1975 50  0001 C CNN "Package"
+F 12 "LCSC" H 9900 1975 50  0001 C CNN "Supplier 1"
+F 13 "SML-D22MUWT86, B2972USUG20D000914U1930" H 9900 1975 50  0001 C CNN "Alt"
+F 14 "C364568" H 9900 1975 50  0001 C CNN "LCSC#"
+	1    9900 1975
+	0    -1   1    0   
+$EndComp
+$Comp
+L Connector_Generic:Conn_02x30_Odd_Even J7
+U 1 1 65732B1B
+P 2200 5625
+F 0 "J7" H 2250 7242 50  0000 C CNN
+F 1 "ERF8-030-05.0-S-DV-K-TR" H 2250 7151 50  0000 C CNN
+F 2 "Kpk:SAMTEC_ERF8-030-05.0-S-DV-K-TR" H 2200 5625 50  0001 C CNN
+F 3 "~" H 2200 5625 50  0001 C CNN
+F 4 "5.26" H 2200 5625 50  0001 C CNN "Cost @ 100pcs"
+F 5 "7.14" H 2200 5625 50  0001 C CNN "Cost @10pcs"
+F 6 "CONN SOCKET 60POS SMD GOLD" H 2200 5625 50  0001 C CNN "Description"
+F 7 "ERF8-030-05.0-S-DV-K-TR" H 2200 5625 50  0001 C CNN "MPN"
+F 8 "ERF8-030-05.0-S-DV-K-TR" H 2200 5625 50  0001 C CNN "MPN if populated"
+F 9 "Samtec Inc." H 2200 5625 50  0001 C CNN "Manufacturer "
+F 10 "-55°C ~ 125°C" H 2200 5625 50  0001 C CNN "Operating Temperature"
+F 11 "Mouser" H 2200 5625 50  0001 C CNN "Supplier 1"
+	1    2200 5625
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_02x30_Odd_Even J13
+U 1 1 65739795
+P 2200 10250
+F 0 "J13" H 2250 11867 50  0000 C CNN
+F 1 "ERF8-030-05.0-S-DV-K-TR" H 2250 11776 50  0000 C CNN
+F 2 "Kpk:SAMTEC_ERF8-030-05.0-S-DV-K-TR" H 2200 10250 50  0001 C CNN
+F 3 "~" H 2200 10250 50  0001 C CNN
+F 4 "5.26" H 2200 10250 50  0001 C CNN "Cost @ 100pcs"
+F 5 "7.14" H 2200 10250 50  0001 C CNN "Cost @10pcs"
+F 6 "CONN SOCKET 60POS SMD GOLD" H 2200 10250 50  0001 C CNN "Description"
+F 7 "ERF8-030-05.0-S-DV-K-TR" H 2200 10250 50  0001 C CNN "MPN"
+F 8 "ERF8-030-05.0-S-DV-K-TR" H 2200 10250 50  0001 C CNN "MPN if populated"
+F 9 "Samtec Inc." H 2200 10250 50  0001 C CNN "Manufacturer "
+F 10 "-55°C ~ 125°C" H 2200 10250 50  0001 C CNN "Operating Temperature"
+F 11 "Mouser" H 2200 10250 50  0001 C CNN "Supplier 1"
+	1    2200 10250
+	1    0    0    -1  
+$EndComp
+$Sheet
+S 3250 13650 1500 950 
+U 63B0641B
+F0 "Power" 50
+F1 "Power.sch" 50
+F2 "Vin" I L 3250 13750 50 
+F3 "GND" I L 3250 14500 50 
+F4 "3V3_SFP" O R 4750 13750 50 
+$EndSheet
+$Sheet
+S 10000 4000 1000 2500
+U 63A57035
+F0 "SFP+" 50
+F1 "SFP+.sch" 50
+F2 "3V3_SFP" I R 11000 4250 50 
+F3 "P0RX_P" I L 10000 4450 50 
+F4 "P0RX_N" I L 10000 4550 50 
+F5 "P9RX_P" I L 10000 5075 50 
+F6 "P9RX_N" I L 10000 5175 50 
+F7 "P10RX_P" I L 10000 5700 50 
+F8 "P10RX_N" I L 10000 5800 50 
+F9 "P0TX_P" O L 10000 4750 50 
+F10 "P0TX_N" O L 10000 4850 50 
+F11 "P9TX_P" O L 10000 5375 50 
+F12 "P9TX_N" O L 10000 5475 50 
+F13 "P10TX_P" O L 10000 6000 50 
+F14 "P10TX_N" O L 10000 6100 50 
+$EndSheet
+$Sheet
+S 5250 3900 1250 3750
+U 64D8C35A
+F0 "Transformer1G" 50
+F1 "Transformer1G.sch" 50
+F2 "P1A_P" B L 5250 4000 50 
+F3 "P1A_N" B L 5250 4100 50 
+F4 "P1B_P" B L 5250 4200 50 
+F5 "P1B_N" B L 5250 4300 50 
+F6 "P1C_P" B L 5250 4400 50 
+F7 "P1C_N" B L 5250 4500 50 
+F8 "P1D_P" B L 5250 4600 50 
+F9 "P1D_N" B L 5250 4700 50 
+F10 "P4A_P" B L 5250 6700 50 
+F11 "P4A_N" B L 5250 6800 50 
+F12 "P4B_P" B L 5250 6900 50 
+F13 "P4B_N" B L 5250 7000 50 
+F14 "P4C_P" B L 5250 7100 50 
+F15 "P4C_N" B L 5250 7200 50 
+F16 "P4D_P" B L 5250 7300 50 
+F17 "P4D_N" B L 5250 7400 50 
+F18 "P3D_N" B L 5250 6500 50 
+F19 "P3D_P" B L 5250 6400 50 
+F20 "P3C_P" B L 5250 6200 50 
+F21 "P3C_N" B L 5250 6300 50 
+F22 "P3B_N" B L 5250 6100 50 
+F23 "P3B_P" B L 5250 6000 50 
+F24 "P3A_N" B L 5250 5900 50 
+F25 "P3A_P" B L 5250 5800 50 
+F26 "P2D_N" B L 5250 5600 50 
+F27 "P2D_P" B L 5250 5500 50 
+F28 "P2C_N" B L 5250 5400 50 
+F29 "P2C_P" B L 5250 5300 50 
+F30 "P2B_N" B L 5250 5200 50 
+F31 "P2B_P" B L 5250 5100 50 
+F32 "P2A_N" B L 5250 5000 50 
+F33 "P2A_P" B L 5250 4900 50 
+F34 "1A_P" B R 6500 4100 50 
+F35 "1A_N" B R 6500 4000 50 
+F36 "1B_P" B R 6500 4300 50 
+F37 "1B_N" B R 6500 4200 50 
+F38 "1C_P" B R 6500 4600 50 
+F39 "1C_N" B R 6500 4700 50 
+F40 "1D_P" B R 6500 4500 50 
+F41 "1D_N" B R 6500 4400 50 
+F42 "2A_P" B R 6500 5000 50 
+F43 "2A_N" B R 6500 4900 50 
+F44 "2B_P" B R 6500 5200 50 
+F45 "2B_N" B R 6500 5100 50 
+F46 "2C_P" B R 6500 5500 50 
+F47 "2C_N" B R 6500 5600 50 
+F48 "2D_P" B R 6500 5400 50 
+F49 "2D_N" B R 6500 5300 50 
+F50 "3A_P" B R 6500 5900 50 
+F51 "3A_N" B R 6500 5800 50 
+F52 "3B_P" B R 6500 6100 50 
+F53 "3B_N" B R 6500 6000 50 
+F54 "3C_P" B R 6500 6400 50 
+F55 "3C_N" B R 6500 6500 50 
+F56 "3D_P" B R 6500 6300 50 
+F57 "3D_N" B R 6500 6200 50 
+F58 "4A_P" B R 6500 6800 50 
+F59 "4A_N" B R 6500 6700 50 
+F60 "4B_P" B R 6500 7000 50 
+F61 "4B_N" B R 6500 6900 50 
+F62 "4C_P" B R 6500 7300 50 
+F63 "4C_N" B R 6500 7400 50 
+F64 "4D_P" B R 6500 7200 50 
+F65 "4D_N" B R 6500 7100 50 
+$EndSheet
+$Sheet
+S 5250 8150 1250 3750
+U 64F7ED8C
+F0 "Transformer1G_P5678" 50
+F1 "Transformer1G_P5678.sch" 50
+F2 "P5A_P" B L 5250 8400 50 
+F3 "P5A_N" B L 5250 8500 50 
+F4 "P5B_P" B L 5250 8600 50 
+F5 "P5B_N" B L 5250 8700 50 
+F6 "P5C_P" B L 5250 8800 50 
+F7 "P5C_N" B L 5250 8900 50 
+F8 "P5D_P" B L 5250 9000 50 
+F9 "P5D_N" B L 5250 9100 50 
+F10 "P8A_P" B L 5250 11100 50 
+F11 "P8A_N" B L 5250 11200 50 
+F12 "P8B_P" B L 5250 11300 50 
+F13 "P8B_N" B L 5250 11400 50 
+F14 "P8C_P" B L 5250 11500 50 
+F15 "P8C_N" B L 5250 11600 50 
+F16 "P8D_P" B L 5250 11700 50 
+F17 "P8D_N" B L 5250 11800 50 
+F18 "P7D_N" B L 5250 10900 50 
+F19 "P7D_P" B L 5250 10800 50 
+F20 "P7C_P" B L 5250 10600 50 
+F21 "P7C_N" B L 5250 10700 50 
+F22 "P7B_N" B L 5250 10500 50 
+F23 "P7B_P" B L 5250 10400 50 
+F24 "P7A_N" B L 5250 10300 50 
+F25 "P7A_P" B L 5250 10200 50 
+F26 "P6D_N" B L 5250 10000 50 
+F27 "P6D_P" B L 5250 9900 50 
+F28 "P6C_N" B L 5250 9800 50 
+F29 "P6C_P" B L 5250 9700 50 
+F30 "P6B_N" B L 5250 9600 50 
+F31 "P6B_P" B L 5250 9500 50 
+F32 "P6A_N" B L 5250 9400 50 
+F33 "P6A_P" B L 5250 9300 50 
+F34 "5A_P" B R 6500 8500 50 
+F35 "5A_N" B R 6500 8400 50 
+F36 "5B_P" B R 6500 8700 50 
+F37 "5B_N" B R 6500 8600 50 
+F38 "5C_P" B R 6500 9000 50 
+F39 "5C_N" B R 6500 9100 50 
+F40 "5D_P" B R 6500 8900 50 
+F41 "5D_N" B R 6500 8800 50 
+F42 "6A_P" B R 6500 9400 50 
+F43 "6A_N" B R 6500 9300 50 
+F44 "6B_P" B R 6500 9600 50 
+F45 "6B_N" B R 6500 9500 50 
+F46 "6C_P" B R 6500 9900 50 
+F47 "6C_N" B R 6500 10000 50 
+F48 "6D_P" B R 6500 9800 50 
+F49 "6D_N" B R 6500 9700 50 
+F50 "7A_P" B R 6500 10300 50 
+F51 "7A_N" B R 6500 10200 50 
+F52 "7B_P" B R 6500 10500 50 
+F53 "7B_N" B R 6500 10400 50 
+F54 "7C_P" B R 6500 10800 50 
+F55 "7C_N" B R 6500 10900 50 
+F56 "7D_P" B R 6500 10700 50 
+F57 "7D_N" B R 6500 10600 50 
+F58 "8A_P" B R 6500 11200 50 
+F59 "8A_N" B R 6500 11100 50 
+F60 "8B_P" B R 6500 11400 50 
+F61 "8B_N" B R 6500 11300 50 
+F62 "8C_P" B R 6500 11700 50 
+F63 "8C_N" B R 6500 11800 50 
+F64 "8D_P" B R 6500 11600 50 
+F65 "8D_N" B R 6500 11500 50 
+$EndSheet
+$EndSCHEMATC

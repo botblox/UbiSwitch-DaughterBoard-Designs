@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "UbiBaseBoardMiniRevA-rescue")(type "KiCad")(uri "${KIPRJMOD}/UbiBaseBoardMiniRevA-rescue.kicad_sym")(options "")(descr ""))
+)
